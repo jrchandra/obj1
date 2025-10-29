@@ -1,0 +1,1 @@
+{'adequacy': {'fleiss_kappa': np.float64(0.3821758329987956), 'n_raters': 3, 'n_items': 27}, 'fluency': {'fleiss_kappa': np.float64(0.3654524089306699), 'n_raters': 3, 'n_items': 27}, 'cohesion': {'fleiss_kappa': np.float64(0.3654524089306699), 'n_raters': 3, 'n_items': 27}}

@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               adequacy   R-squared:                       0.656
+Model:                            OLS   Adj. R-squared:                  0.574
+Method:                 Least Squares   F-statistic:                     7.998
+Date:                Sun, 21 Sep 2025   Prob (F-statistic):           0.000236
+Time:                        11:40:55   Log-Likelihood:                -37.461
+No. Observations:                  27   AIC:                             86.92
+Df Residuals:                      21   BIC:                             94.70
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================
+                        coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+const                 2.7037      0.211     12.787      0.000       2.264       3.143
+bleu_score           16.0413      9.949      1.612      0.122      -4.649      36.732
+chrfpp_score          0.8771      0.415      2.111      0.047       0.013       1.741
+ter_score             0.0142      0.276      0.051      0.960      -0.560       0.588
+sent_bleu_nltk      -15.6671      9.993     -1.568      0.132     -36.448       5.114
+levenshtein_ratio     0.2138      0.397      0.538      0.596      -0.613       1.040
+==============================================================================
+Omnibus:                        5.849   Durbin-Watson:                   1.494
+Prob(Omnibus):                  0.054   Jarque-Bera (JB):                4.742
+Skew:                          -0.504   Prob(JB):                       0.0934
+Kurtosis:                       4.789   Cond. No.                         127.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
