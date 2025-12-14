@@ -1,0 +1,6 @@
+en_keys=825
+fj_keys=792
+aligned_keys=763
+rows_written_en2fj=732
+rows_written_fj2en=732
+rows_written_both=1,464

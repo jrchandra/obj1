@@ -1,0 +1,2 @@
+total_segments,src_noise_percent,tgt_noise_percent,alignment_mean,alignment_median,alignment_low_quality_pct,likely_english_source_pct,likely_fijian_target_pct
+15912,56.39140271493213,8.647561588738059,0.043584136501871235,0.0,86.16767219708396,18.929110105580694,23.397435897435898

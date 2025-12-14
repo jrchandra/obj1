@@ -1,0 +1,2 @@
+total_rows,num_domains,num_subdomains,num_directions,avg_src_tokens,avg_tgt_tokens,avg_src_chars,avg_tgt_chars
+15912,7,15,2,8.55,22.45,46.1,126.16

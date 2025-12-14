@@ -1,0 +1,17 @@
+domain,sentence_type,rows,pct_within_domain
+bible,long,1653,53.95
+bible,medium,1370,44.71
+bible,short,41,1.34
+conversational,medium,26,9.81
+conversational,short,239,90.19
+definition,short,1726,100.0
+dictionary,medium,26,0.29
+dictionary,short,8933,99.71
+idiom,medium,3,2.38
+idiom,short,123,97.62
+legal,long,601,41.05
+legal,medium,468,31.97
+legal,short,395,26.98
+medical,long,10,3.25
+medical,medium,220,71.43
+medical,short,78,25.32

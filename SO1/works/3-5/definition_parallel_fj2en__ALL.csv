@@ -1,0 +1,865 @@
+domain,subdomain,source_id,source_doc,source_lang,target_lang,direction,source_text,target_text
+definition,definition,definition|000001,definition.xlsx::Sheet1,fj,en,fj->en,a,marker for common nouns
+definition,definition,definition|000002,definition.xlsx::Sheet1,fj,en,fj->en,a,past tense
+definition,definition,definition|000003,definition.xlsx::Sheet1,fj,en,fj->en,adi,honorific prefix (woman)
+definition,definition,definition|000004,definition.xlsx::Sheet1,fj,en,fj->en,ai vola tabu,holy bible
+definition,definition,definition|000005,definition.xlsx::Sheet1,fj,en,fj->en,alatala,pastor
+definition,definition,definition|000006,definition.xlsx::Sheet1,fj,en,fj->en,aspirini,aspirin
+definition,definition,definition|000007,definition.xlsx::Sheet1,fj,en,fj->en,au,"first person singular, ""i"""
+definition,definition,definition|000008,definition.xlsx::Sheet1,fj,en,fj->en,au,i
+definition,definition,definition|000009,definition.xlsx::Sheet1,fj,en,fj->en,au vinakata,i want
+definition,definition,definition|000010,definition.xlsx::Sheet1,fj,en,fj->en,aua,hour
+definition,definition,definition|000011,definition.xlsx::Sheet1,fj,en,fj->en,ba,fence
+definition,definition,definition|000012,definition.xlsx::Sheet1,fj,en,fj->en,balavu,"long, tall"
+definition,definition,definition|000013,definition.xlsx::Sheet1,fj,en,fj->en,balavu,tall
+definition,definition,definition|000014,definition.xlsx::Sheet1,fj,en,fj->en,bale bale,i- meaning
+definition,definition,definition|000015,definition.xlsx::Sheet1,fj,en,fj->en,"baleta, ni",because
+definition,definition,definition|000016,definition.xlsx::Sheet1,fj,en,fj->en,baqe,bank
+definition,definition,definition|000017,definition.xlsx::Sheet1,fj,en,fj->en,baravi,coast
+definition,definition,definition|000018,definition.xlsx::Sheet1,fj,en,fj->en,baravi,shore
+definition,definition,definition|000019,definition.xlsx::Sheet1,fj,en,fj->en,baravi nuku,beach (bathing)
+definition,definition,definition|000020,definition.xlsx::Sheet1,fj,en,fj->en,basi,bus
+definition,definition,definition|000021,definition.xlsx::Sheet1,fj,en,fj->en,basikeli,bicycle
+definition,definition,definition|000022,definition.xlsx::Sheet1,fj,en,fj->en,basu-ka,break open
+definition,definition,definition|000023,definition.xlsx::Sheet1,fj,en,fj->en,bata,butter
+definition,definition,definition|000024,definition.xlsx::Sheet1,fj,en,fj->en,batabata,"cold, coolness"
+definition,definition,definition|000025,definition.xlsx::Sheet1,fj,en,fj->en,bati,"soldier, bodyguard"
+definition,definition,definition|000026,definition.xlsx::Sheet1,fj,en,fj->en,bati,tooth
+definition,definition,definition|000027,definition.xlsx::Sheet1,fj,en,fj->en,bebe,butterfly
+definition,definition,definition|000028,definition.xlsx::Sheet1,fj,en,fj->en,beitaka,blame
+definition,definition,definition|000029,definition.xlsx::Sheet1,fj,en,fj->en,beka,perhaps
+definition,definition,definition|000030,definition.xlsx::Sheet1,fj,en,fj->en,bele,eatible greens
+definition,definition,definition|000031,definition.xlsx::Sheet1,fj,en,fj->en,berabera,slow
+definition,definition,definition|000032,definition.xlsx::Sheet1,fj,en,fj->en,bia,beer
+definition,definition,definition|000033,definition.xlsx::Sheet1,fj,en,fj->en,biau,wave
+definition,definition,definition|000034,definition.xlsx::Sheet1,fj,en,fj->en,bibi,heavy
+definition,definition,definition|000035,definition.xlsx::Sheet1,fj,en,fj->en,bili,bill
+definition,definition,definition|000036,definition.xlsx::Sheet1,fj,en,fj->en,bilo,cup
+definition,definition,definition|000037,definition.xlsx::Sheet1,fj,en,fj->en,bini,beans
+definition,definition,definition|000038,definition.xlsx::Sheet1,fj,en,fj->en,bisinisi,business
+definition,definition,definition|000039,definition.xlsx::Sheet1,fj,en,fj->en,biu-ta,abandon
+definition,definition,definition|000040,definition.xlsx::Sheet1,fj,en,fj->en,bo,boil (n)
+definition,definition,definition|000041,definition.xlsx::Sheet1,fj,en,fj->en,bogi,night
+definition,definition,definition|000042,definition.xlsx::Sheet1,fj,en,fj->en,bokola,corpse to be eaten
+definition,definition,definition|000043,definition.xlsx::Sheet1,fj,en,fj->en,bomu,bomb
+definition,definition,definition|000044,definition.xlsx::Sheet1,fj,en,fj->en,bose,meeting
+definition,definition,definition|000045,definition.xlsx::Sheet1,fj,en,fj->en,bose levu vakaturaga,great council of chiefs
+definition,definition,definition|000046,definition.xlsx::Sheet1,fj,en,fj->en,boso,boss
+definition,definition,definition|000047,definition.xlsx::Sheet1,fj,en,fj->en,"braun, raradamu",brown
+definition,definition,definition|000048,definition.xlsx::Sheet1,fj,en,fj->en,bubu tagane,father's father
+definition,definition,definition|000049,definition.xlsx::Sheet1,fj,en,fj->en,bubu tagane,mother's father
+definition,definition,definition|000050,definition.xlsx::Sheet1,fj,en,fj->en,bubu yalewa,mother's mother
+definition,definition,definition|000051,definition.xlsx::Sheet1,fj,en,fj->en,bubu yalewa,father's mother
+definition,definition,definition|000052,definition.xlsx::Sheet1,fj,en,fj->en,buja,butcher
+definition,definition,definition|000053,definition.xlsx::Sheet1,fj,en,fj->en,buka,fire
+definition,definition,definition|000054,definition.xlsx::Sheet1,fj,en,fj->en,bula,"life, healthy"
+definition,definition,definition|000055,definition.xlsx::Sheet1,fj,en,fj->en,bula!,hello
+definition,definition,definition|000056,definition.xlsx::Sheet1,fj,en,fj->en,bulu,healthy
+definition,definition,definition|000057,definition.xlsx::Sheet1,fj,en,fj->en,bulu.makau,cattle
+definition,definition,definition|000058,definition.xlsx::Sheet1,fj,en,fj->en,bulu.makau,cow
+definition,definition,definition|000059,definition.xlsx::Sheet1,fj,en,fj->en,bulumakau,cattle
+definition,definition,definition|000060,definition.xlsx::Sheet1,fj,en,fj->en,bulumakau,beef
+definition,definition,definition|000061,definition.xlsx::Sheet1,fj,en,fj->en,burogo,bug
+definition,definition,definition|000062,definition.xlsx::Sheet1,fj,en,fj->en,buta,blister
+definition,definition,definition|000063,definition.xlsx::Sheet1,fj,en,fj->en,buto,dark
+definition,definition,definition|000064,definition.xlsx::Sheet1,fj,en,fj->en,ca,bad
+definition,definition,definition|000065,definition.xlsx::Sheet1,fj,en,fj->en,ca,"bad, evil, ruin"
+definition,definition,definition|000066,definition.xlsx::Sheet1,fj,en,fj->en,cabe-ta,ascend
+definition,definition,definition|000067,definition.xlsx::Sheet1,fj,en,fj->en,cagi,wind (n.)
+definition,definition,definition|000068,definition.xlsx::Sheet1,fj,en,fj->en,cagi,air
+definition,definition,definition|000069,definition.xlsx::Sheet1,fj,en,fj->en,cakacaka,work
+definition,definition,definition|000070,definition.xlsx::Sheet1,fj,en,fj->en,cakau,reef
+definition,definition,definition|000071,definition.xlsx::Sheet1,fj,en,fj->en,cakava,"do, make work"
+definition,definition,definition|000072,definition.xlsx::Sheet1,fj,en,fj->en,cake,up
+definition,definition,definition|000073,definition.xlsx::Sheet1,fj,en,fj->en,cala,err
+definition,definition,definition|000074,definition.xlsx::Sheet1,fj,en,fj->en,cala,miss (v.)
+definition,definition,definition|000075,definition.xlsx::Sheet1,fj,en,fj->en,ca-ta,abhor
+definition,definition,definition|000076,definition.xlsx::Sheet1,fj,en,fj->en,ca-ti,abhorrent
+definition,definition,definition|000077,definition.xlsx::Sheet1,fj,en,fj->en,cauravou,youth
+definition,definition,definition|000078,definition.xlsx::Sheet1,fj,en,fj->en,cauravou,bachelor (eligible)
+definition,definition,definition|000079,definition.xlsx::Sheet1,fj,en,fj->en,cava,which?
+definition,definition,definition|000080,definition.xlsx::Sheet1,fj,en,fj->en,cava,"what, which"
+definition,definition,definition|000081,definition.xlsx::Sheet1,fj,en,fj->en,cegu,breathe
+definition,definition,definition|000082,definition.xlsx::Sheet1,fj,en,fj->en,"cegu, vaka.cegu",rest
+definition,definition,definition|000083,definition.xlsx::Sheet1,fj,en,fj->en,cei,who?
+definition,definition,definition|000084,definition.xlsx::Sheet1,fj,en,fj->en,cici,run
+definition,definition,definition|000085,definition.xlsx::Sheet1,fj,en,fj->en,cina,torch
+definition,definition,definition|000086,definition.xlsx::Sheet1,fj,en,fj->en,cina,lamp
+definition,definition,definition|000087,definition.xlsx::Sheet1,fj,en,fj->en,ciqoma,accept
+definition,definition,definition|000088,definition.xlsx::Sheet1,fj,en,fj->en,ciqo-ma,catch (thing thrown)
+definition,definition,definition|000089,definition.xlsx::Sheet1,fj,en,fj->en,ciwa,nine
+definition,definition,definition|000090,definition.xlsx::Sheet1,fj,en,fj->en,cola-to,carry on shoulder
+definition,definition,definition|000091,definition.xlsx::Sheet1,fj,en,fj->en,cudru,angry
+definition,definition,definition|000092,definition.xlsx::Sheet1,fj,en,fj->en,curu,enter
+definition,definition,definition|000093,definition.xlsx::Sheet1,fj,en,fj->en,dabuiloa,bruise
+definition,definition,definition|000094,definition.xlsx::Sheet1,fj,en,fj->en,"dai.dai, nikua",today
+definition,definition,definition|000095,definition.xlsx::Sheet1,fj,en,fj->en,daku,back (n)
+definition,definition,definition|000096,definition.xlsx::Sheet1,fj,en,fj->en,"daku, i muri",back
+definition,definition,definition|000097,definition.xlsx::Sheet1,fj,en,fj->en,daliga,ear
+definition,definition,definition|000098,definition.xlsx::Sheet1,fj,en,fj->en,dalo,taro
+definition,definition,definition|000099,definition.xlsx::Sheet1,fj,en,fj->en,dalo,eatible root
+definition,definition,definition|000100,definition.xlsx::Sheet1,fj,en,fj->en,damudamu,red
+definition,definition,definition|000101,definition.xlsx::Sheet1,fj,en,fj->en,daru,"first person dual inclusive, us"
+definition,definition,definition|000102,definition.xlsx::Sheet1,fj,en,fj->en,"daru, datou, da,",we
+definition,definition,definition|000103,definition.xlsx::Sheet1,fj,en,fj->en,dau,expert
+definition,definition,definition|000104,definition.xlsx::Sheet1,fj,en,fj->en,dau teitei,farmer
+definition,definition,definition|000105,definition.xlsx::Sheet1,fj,en,fj->en,"dau-, manamana-",addict
+definition,definition,definition|000106,definition.xlsx::Sheet1,fj,en,fj->en,"dau, tu ga",always
+definition,definition,definition|000107,definition.xlsx::Sheet1,fj,en,fj->en,daugunuyaqona,addicted to kava
+definition,definition,definition|000108,definition.xlsx::Sheet1,fj,en,fj->en,daukerekere,beggar
+definition,definition,definition|000109,definition.xlsx::Sheet1,fj,en,fj->en,daulomani,husband
+definition,definition,definition|000110,definition.xlsx::Sheet1,fj,en,fj->en,dauvauimadrai,baker
+definition,definition,definition|000111,definition.xlsx::Sheet1,fj,en,fj->en,dawai,bachelor
+definition,definition,definition|000112,definition.xlsx::Sheet1,fj,en,fj->en,dede,long (time)
+definition,definition,definition|000113,definition.xlsx::Sheet1,fj,en,fj->en,dela,top
+definition,definition,definition|000114,definition.xlsx::Sheet1,fj,en,fj->en,dela,above
+definition,definition,definition|000115,definition.xlsx::Sheet1,fj,en,fj->en,"derekona, todroge",belch
+definition,definition,definition|000116,definition.xlsx::Sheet1,fj,en,fj->en,dina,genuine
+definition,definition,definition|000117,definition.xlsx::Sheet1,fj,en,fj->en,dina,"true, genuine, sincere"
+definition,definition,definition|000118,definition.xlsx::Sheet1,fj,en,fj->en,dodonu,straight
+definition,definition,definition|000119,definition.xlsx::Sheet1,fj,en,fj->en,dodonu,"right, correct, straight"
+definition,definition,definition|000120,definition.xlsx::Sheet1,fj,en,fj->en,dodonu,correct
+definition,definition,definition|000121,definition.xlsx::Sheet1,fj,en,fj->en,dolava,open
+definition,definition,definition|000122,definition.xlsx::Sheet1,fj,en,fj->en,dou,nd person trial
+definition,definition,definition|000123,definition.xlsx::Sheet1,fj,en,fj->en,dovu,sugar cane
+definition,definition,definition|000124,definition.xlsx::Sheet1,fj,en,fj->en,dra,bleed
+definition,definition,definition|000125,definition.xlsx::Sheet1,fj,en,fj->en,dra,blood
+definition,definition,definition|000126,definition.xlsx::Sheet1,fj,en,fj->en,draiva,drive
+definition,definition,definition|000127,definition.xlsx::Sheet1,fj,en,fj->en,draiva,driver
+definition,definition,definition|000128,definition.xlsx::Sheet1,fj,en,fj->en,draki,weather
+definition,definition,definition|000129,definition.xlsx::Sheet1,fj,en,fj->en,drau,leaf
+definition,definition,definition|000130,definition.xlsx::Sheet1,fj,en,fj->en,drau,hundred
+definition,definition,definition|000131,definition.xlsx::Sheet1,fj,en,fj->en,drau,nd person dual
+definition,definition,definition|000132,definition.xlsx::Sheet1,fj,en,fj->en,drau ni ulu,hair
+definition,definition,definition|000133,definition.xlsx::Sheet1,fj,en,fj->en,dravuisiga,arid
+definition,definition,definition|000134,definition.xlsx::Sheet1,fj,en,fj->en,dredre,difficult
+definition,definition,definition|000135,definition.xlsx::Sheet1,fj,en,fj->en,drega,chewing gum
+definition,definition,definition|000136,definition.xlsx::Sheet1,fj,en,fj->en,dreke-ta,carry on back
+definition,definition,definition|000137,definition.xlsx::Sheet1,fj,en,fj->en,"drokadroka, karakarawa",green
+definition,definition,definition|000138,definition.xlsx::Sheet1,fj,en,fj->en,dromodromo,yellow
+definition,definition,definition|000139,definition.xlsx::Sheet1,fj,en,fj->en,dua,"one, or a in front of nouns"
+definition,definition,definition|000140,definition.xlsx::Sheet1,fj,en,fj->en,dua,one
+definition,definition,definition|000141,definition.xlsx::Sheet1,fj,en,fj->en,dua ga,any (at random)
+definition,definition,definition|000142,definition.xlsx::Sheet1,fj,en,fj->en,dua tale,another
+definition,definition,definition|000143,definition.xlsx::Sheet1,fj,en,fj->en,dua tale,one more
+definition,definition,definition|000144,definition.xlsx::Sheet1,fj,en,fj->en,"dua.tani, dui.dui",different
+definition,definition,definition|000145,definition.xlsx::Sheet1,fj,en,fj->en,"duadua, taudua",alone
+definition,definition,definition|000146,definition.xlsx::Sheet1,fj,en,fj->en,"duavata, vakadonuya",agree
+definition,definition,definition|000147,definition.xlsx::Sheet1,fj,en,fj->en,dui,differently
+definition,definition,definition|000148,definition.xlsx::Sheet1,fj,en,fj->en,dui,each
+definition,definition,definition|000149,definition.xlsx::Sheet1,fj,en,fj->en,duka,dirty
+definition,definition,definition|000150,definition.xlsx::Sheet1,fj,en,fj->en,e,"he she it, in at"
+definition,definition,definition|000151,definition.xlsx::Sheet1,fj,en,fj->en,e,in
+definition,definition,definition|000152,definition.xlsx::Sheet1,fj,en,fj->en,e dua na,"a, an"
+definition,definition,definition|000153,definition.xlsx::Sheet1,fj,en,fj->en,e muri,behind
+definition,definition,definition|000154,definition.xlsx::Sheet1,fj,en,fj->en,e ra,underneath
+definition,definition,definition|000155,definition.xlsx::Sheet1,fj,en,fj->en,"e, mai",at
+definition,definition,definition|000156,definition.xlsx::Sheet1,fj,en,fj->en,era,rd person plural
+definition,definition,definition|000157,definition.xlsx::Sheet1,fj,en,fj->en,eula,needle
+definition,definition,definition|000158,definition.xlsx::Sheet1,fj,en,fj->en,fijian kin term,relationship
+definition,definition,definition|000159,definition.xlsx::Sheet1,fj,en,fj->en,foot,feet (meas.)
+definition,definition,definition|000160,definition.xlsx::Sheet1,fj,en,fj->en,ga,just
+definition,definition,definition|000161,definition.xlsx::Sheet1,fj,en,fj->en,"ga, dua.dua, wale ga",only
+definition,definition,definition|000162,definition.xlsx::Sheet1,fj,en,fj->en,gade,"walk, stroll,"
+definition,definition,definition|000163,definition.xlsx::Sheet1,fj,en,fj->en,"gade, tau.bale",walk
+definition,definition,definition|000164,definition.xlsx::Sheet1,fj,en,fj->en,gaga,bitter
+definition,definition,definition|000165,definition.xlsx::Sheet1,fj,en,fj->en,galala,empty
+definition,definition,definition|000166,definition.xlsx::Sheet1,fj,en,fj->en,gane,brother
+definition,definition,definition|000167,definition.xlsx::Sheet1,fj,en,fj->en,gata,sharp
+definition,definition,definition|000168,definition.xlsx::Sheet1,fj,en,fj->en,gata,snake
+definition,definition,definition|000169,definition.xlsx::Sheet1,fj,en,fj->en,gauna,time
+definition,definition,definition|000170,definition.xlsx::Sheet1,fj,en,fj->en,gauna,chance
+definition,definition,definition|000171,definition.xlsx::Sheet1,fj,en,fj->en,gone,child
+definition,definition,definition|000172,definition.xlsx::Sheet1,fj,en,fj->en,gone dau,fisherman
+definition,definition,definition|000173,definition.xlsx::Sheet1,fj,en,fj->en,gone vuli,student
+definition,definition,definition|000174,definition.xlsx::Sheet1,fj,en,fj->en,gonetagane,boy
+definition,definition,definition|000175,definition.xlsx::Sheet1,fj,en,fj->en,gunu,drink
+definition,definition,definition|000176,definition.xlsx::Sheet1,fj,en,fj->en,gunuva,drink
+definition,definition,definition|000177,definition.xlsx::Sheet1,fj,en,fj->en,gusu,mouth
+definition,definition,definition|000178,definition.xlsx::Sheet1,fj,en,fj->en,gutuva,"break (rope, vine)"
+definition,definition,definition|000179,definition.xlsx::Sheet1,fj,en,fj->en,high chief,gone turaga
+definition,definition,definition|000180,definition.xlsx::Sheet1,fj,en,fj->en,i,to
+definition,definition,definition|000181,definition.xlsx::Sheet1,fj,en,fj->en,"i cake, i dela",above
+definition,definition,definition|000182,definition.xlsx::Sheet1,fj,en,fj->en,i dakumu,behind you
+definition,definition,definition|000183,definition.xlsx::Sheet1,fj,en,fj->en,i liu,ahead
+definition,definition,definition|000184,definition.xlsx::Sheet1,fj,en,fj->en,i liu,before
+definition,definition,definition|000185,definition.xlsx::Sheet1,fj,en,fj->en,i loma ni... kei...,between
+definition,definition,definition|000186,definition.xlsx::Sheet1,fj,en,fj->en,i maliwa ni,among (things)
+definition,definition,definition|000187,definition.xlsx::Sheet1,fj,en,fj->en,"i muri, daku-",behind
+definition,definition,definition|000188,definition.xlsx::Sheet1,fj,en,fj->en,i ra,below
+definition,definition,definition|000189,definition.xlsx::Sheet1,fj,en,fj->en,i tai,across (the road/river)
+definition,definition,definition|000190,definition.xlsx::Sheet1,fj,en,fj->en,i waqa,aboard
+definition,definition,definition|000191,definition.xlsx::Sheet1,fj,en,fj->en,i yasa,beside
+definition,definition,definition|000192,definition.xlsx::Sheet1,fj,en,fj->en,"i, mai",at
+definition,definition,definition|000193,definition.xlsx::Sheet1,fj,en,fj->en,"ia, ga",but
+definition,definition,definition|000194,definition.xlsx::Sheet1,fj,en,fj->en,ibale.bale,meaning
+definition,definition,definition|000195,definition.xlsx::Sheet1,fj,en,fj->en,ibe,mat
+definition,definition,definition|000196,definition.xlsx::Sheet1,fj,en,fj->en,ibulubulu,cemetery
+definition,definition,definition|000197,definition.xlsx::Sheet1,fj,en,fj->en,icurucuru,admission
+definition,definition,definition|000198,definition.xlsx::Sheet1,fj,en,fj->en,idabedabe,chair
+definition,definition,definition|000199,definition.xlsx::Sheet1,fj,en,fj->en,idrekedreke,backpack
+definition,definition,definition|000200,definition.xlsx::Sheet1,fj,en,fj->en,ika,fish (n.)
+definition,definition,definition|000201,definition.xlsx::Sheet1,fj,en,fj->en,ikatalau,breakfast
+definition,definition,definition|000202,definition.xlsx::Sheet1,fj,en,fj->en,iko,nd person singular
+definition,definition,definition|000203,definition.xlsx::Sheet1,fj,en,fj->en,"iko, drau, dou, onε, nε",you
+definition,definition,definition|000204,definition.xlsx::Sheet1,fj,en,fj->en,ilakolako talei,adventure
+definition,definition,definition|000205,definition.xlsx::Sheet1,fj,en,fj->en,ilavo,money
+definition,definition,definition|000206,definition.xlsx::Sheet1,fj,en,fj->en,ima.tai,first
+definition,definition,definition|000207,definition.xlsx::Sheet1,fj,en,fj->en,ima.tau,right side
+definition,definition,definition|000208,definition.xlsx::Sheet1,fj,en,fj->en,imau,cards (deck of)
+definition,definition,definition|000209,definition.xlsx::Sheet1,fj,en,fj->en,"imocemoce, idavodavo",bed
+definition,definition,definition|000210,definition.xlsx::Sheet1,fj,en,fj->en,"io, ia",yes
+definition,definition,definition|000211,definition.xlsx::Sheet1,fj,en,fj->en,ira,rd person plural
+definition,definition,definition|000212,definition.xlsx::Sheet1,fj,en,fj->en,isau,payment
+definition,definition,definition|000213,definition.xlsx::Sheet1,fj,en,fj->en,isau,answer (n)
+definition,definition,definition|000214,definition.xlsx::Sheet1,fj,en,fj->en,isau,cost
+definition,definition,definition|000215,definition.xlsx::Sheet1,fj,en,fj->en,isele,knife
+definition,definition,definition|000216,definition.xlsx::Sheet1,fj,en,fj->en,isulu,clothes
+definition,definition,definition|000217,definition.xlsx::Sheet1,fj,en,fj->en,itaba,camera
+definition,definition,definition|000218,definition.xlsx::Sheet1,fj,en,fj->en,itala.noa,story
+definition,definition,definition|000219,definition.xlsx::Sheet1,fj,en,fj->en,itau,friend
+definition,definition,definition|000220,definition.xlsx::Sheet1,fj,en,fj->en,itau (tagane),boyfriend
+definition,definition,definition|000221,definition.xlsx::Sheet1,fj,en,fj->en,itei.tei,garden
+definition,definition,definition|000222,definition.xlsx::Sheet1,fj,en,fj->en,itei.tei,farm
+definition,definition,definition|000223,definition.xlsx::Sheet1,fj,en,fj->en,ituku.tuku,report
+definition,definition,definition|000224,definition.xlsx::Sheet1,fj,en,fj->en,ituku.tuku,news
+definition,definition,definition|000225,definition.xlsx::Sheet1,fj,en,fj->en,i-vadreti,bandage (n)
+definition,definition,definition|000226,definition.xlsx::Sheet1,fj,en,fj->en,ivava,shoe
+definition,definition,definition|000227,definition.xlsx::Sheet1,fj,en,fj->en,ivi,chestnut
+definition,definition,definition|000228,definition.xlsx::Sheet1,fj,en,fj->en,ivodo.vodo,fare
+definition,definition,definition|000229,definition.xlsx::Sheet1,fj,en,fj->en,ivola,book
+definition,definition,definition|000230,definition.xlsx::Sheet1,fj,en,fj->en,ivolatabu,bible
+definition,definition,definition|000231,definition.xlsx::Sheet1,fj,en,fj->en,iyaya,baggage
+definition,definition,definition|000232,definition.xlsx::Sheet1,fj,en,fj->en,jaina,banana
+definition,definition,definition|000233,definition.xlsx::Sheet1,fj,en,fj->en,jeke,cheque
+definition,definition,definition|000234,definition.xlsx::Sheet1,fj,en,fj->en,jisi,cheese
+definition,definition,definition|000235,definition.xlsx::Sheet1,fj,en,fj->en,jokeliti,chocolate
+definition,definition,definition|000236,definition.xlsx::Sheet1,fj,en,fj->en,ka,thing
+definition,definition,definition|000237,definition.xlsx::Sheet1,fj,en,fj->en,kabani ni waqavuka,airline
+definition,definition,definition|000238,definition.xlsx::Sheet1,fj,en,fj->en,kabata,climb
+definition,definition,definition|000239,definition.xlsx::Sheet1,fj,en,fj->en,kadrala,candle
+definition,definition,definition|000240,definition.xlsx::Sheet1,fj,en,fj->en,kai,inhabitant of
+definition,definition,definition|000241,definition.xlsx::Sheet1,fj,en,fj->en,kai,people
+definition,definition,definition|000242,definition.xlsx::Sheet1,fj,en,fj->en,kakana,food
+definition,definition,definition|000243,definition.xlsx::Sheet1,fj,en,fj->en,kakua,don't
+definition,definition,definition|000244,definition.xlsx::Sheet1,fj,en,fj->en,kalo.kalo,star
+definition,definition,definition|000245,definition.xlsx::Sheet1,fj,en,fj->en,kaloko,clock
+definition,definition,definition|000246,definition.xlsx::Sheet1,fj,en,fj->en,kalou,spirit
+definition,definition,definition|000247,definition.xlsx::Sheet1,fj,en,fj->en,kalou,god
+definition,definition,definition|000248,definition.xlsx::Sheet1,fj,en,fj->en,"kalou, yalo",spirit
+definition,definition,definition|000249,definition.xlsx::Sheet1,fj,en,fj->en,kalove,bent
+definition,definition,definition|000250,definition.xlsx::Sheet1,fj,en,fj->en,kama,burn (v)
+definition,definition,definition|000251,definition.xlsx::Sheet1,fj,en,fj->en,kama tiko,ablaze
+definition,definition,definition|000252,definition.xlsx::Sheet1,fj,en,fj->en,kami.kamica,sweet
+definition,definition,definition|000253,definition.xlsx::Sheet1,fj,en,fj->en,kamusu,broken
+definition,definition,definition|000254,definition.xlsx::Sheet1,fj,en,fj->en,kana,eat
+definition,definition,definition|000255,definition.xlsx::Sheet1,fj,en,fj->en,karakarawa,blue
+definition,definition,definition|000256,definition.xlsx::Sheet1,fj,en,fj->en,kareti,carrot
+definition,definition,definition|000257,definition.xlsx::Sheet1,fj,en,fj->en,karua,husband's brother's wife
+definition,definition,definition|000258,definition.xlsx::Sheet1,fj,en,fj->en,karua,wife's sister's husband
+definition,definition,definition|000259,definition.xlsx::Sheet1,fj,en,fj->en,katakata,"hot, feverish"
+definition,definition,definition|000260,definition.xlsx::Sheet1,fj,en,fj->en,kateni,box
+definition,definition,definition|000261,definition.xlsx::Sheet1,fj,en,fj->en,kato,box
+definition,definition,definition|000262,definition.xlsx::Sheet1,fj,en,fj->en,kato,basket
+definition,definition,definition|000263,definition.xlsx::Sheet1,fj,en,fj->en,"kato, basikete",basket
+definition,definition,definition|000264,definition.xlsx::Sheet1,fj,en,fj->en,"kato, taga, beki",bag
+definition,definition,definition|000265,definition.xlsx::Sheet1,fj,en,fj->en,katolika,catholic
+definition,definition,definition|000266,definition.xlsx::Sheet1,fj,en,fj->en,kau,stick
+definition,definition,definition|000267,definition.xlsx::Sheet1,fj,en,fj->en,kau,"wood, stick, tree"
+definition,definition,definition|000268,definition.xlsx::Sheet1,fj,en,fj->en,"kau, vu ni kau",tree
+definition,definition,definition|000269,definition.xlsx::Sheet1,fj,en,fj->en,kau.kaua,strong
+definition,definition,definition|000270,definition.xlsx::Sheet1,fj,en,fj->en,kau.kaua,hard
+definition,definition,definition|000271,definition.xlsx::Sheet1,fj,en,fj->en,kau-ta,carry
+definition,definition,definition|000272,definition.xlsx::Sheet1,fj,en,fj->en,kauta mai,bring
+definition,definition,definition|000273,definition.xlsx::Sheet1,fj,en,fj->en,kaveti,cabbage
+definition,definition,definition|000274,definition.xlsx::Sheet1,fj,en,fj->en,kavoro,"broken (glass, china)"
+definition,definition,definition|000275,definition.xlsx::Sheet1,fj,en,fj->en,"ke, kevaka",if
+definition,definition,definition|000276,definition.xlsx::Sheet1,fj,en,fj->en,"ke, oqo",here
+definition,definition,definition|000277,definition.xlsx::Sheet1,fj,en,fj->en,"kea, keya",there
+definition,definition,definition|000278,definition.xlsx::Sheet1,fj,en,fj->en,keba,camp (n - army)
+definition,definition,definition|000279,definition.xlsx::Sheet1,fj,en,fj->en,"kece, taucoko",all
+definition,definition,definition|000280,definition.xlsx::Sheet1,fj,en,fj->en,kei,"with, and"
+definition,definition,definition|000281,definition.xlsx::Sheet1,fj,en,fj->en,"kei, ka, ia",and
+definition,definition,definition|000282,definition.xlsx::Sheet1,fj,en,fj->en,"kei, qai",and
+definition,definition,definition|000283,definition.xlsx::Sheet1,fj,en,fj->en,keke,cake
+definition,definition,definition|000284,definition.xlsx::Sheet1,fj,en,fj->en,"keke, bisikete",biscuit
+definition,definition,definition|000285,definition.xlsx::Sheet1,fj,en,fj->en,kele,"arrive, come to a stop"
+definition,definition,definition|000286,definition.xlsx::Sheet1,fj,en,fj->en,kemesi,chemist (pharmacy)
+definition,definition,definition|000287,definition.xlsx::Sheet1,fj,en,fj->en,kemuni,you
+definition,definition,definition|000288,definition.xlsx::Sheet1,fj,en,fj->en,kena vinaka,advantage
+definition,definition,definition|000289,definition.xlsx::Sheet1,fj,en,fj->en,kere.kere,request
+definition,definition,definition|000290,definition.xlsx::Sheet1,fj,en,fj->en,kere-a,ask for
+definition,definition,definition|000291,definition.xlsx::Sheet1,fj,en,fj->en,"kerea, vakayagataka",borrow
+definition,definition,definition|000292,definition.xlsx::Sheet1,fj,en,fj->en,kerekere,"beg, to"
+definition,definition,definition|000293,definition.xlsx::Sheet1,fj,en,fj->en,"keri, kea , oya, oqori",there
+definition,definition,definition|000294,definition.xlsx::Sheet1,fj,en,fj->en,kete,stomach
+definition,definition,definition|000295,definition.xlsx::Sheet1,fj,en,fj->en,kete-na,abdomen
+definition,definition,definition|000296,definition.xlsx::Sheet1,fj,en,fj->en,keve-ta,carry baby in arms
+definition,definition,definition|000297,definition.xlsx::Sheet1,fj,en,fj->en,ki,"to, towards"
+definition,definition,definition|000298,definition.xlsx::Sheet1,fj,en,fj->en,kila,know
+definition,definition,definition|000299,definition.xlsx::Sheet1,fj,en,fj->en,kila sara ga,certain
+definition,definition,definition|000300,definition.xlsx::Sheet1,fj,en,fj->en,kodro,bark (v)
+definition,definition,definition|000301,definition.xlsx::Sheet1,fj,en,fj->en,koli,dog
+definition,definition,definition|000302,definition.xlsx::Sheet1,fj,en,fj->en,koro,village
+definition,definition,definition|000303,definition.xlsx::Sheet1,fj,en,fj->en,koro ni vuli,school
+definition,definition,definition|000304,definition.xlsx::Sheet1,fj,en,fj->en,koroturaga,capital
+definition,definition,definition|000305,definition.xlsx::Sheet1,fj,en,fj->en,koya,she
+definition,definition,definition|000306,definition.xlsx::Sheet1,fj,en,fj->en,koya,he
+definition,definition,definition|000307,definition.xlsx::Sheet1,fj,en,fj->en,koya,"rd person singular, ""he"", ""she"""
+definition,definition,definition|000308,definition.xlsx::Sheet1,fj,en,fj->en,"koya, oya","that, there"
+definition,definition,definition|000309,definition.xlsx::Sheet1,fj,en,fj->en,kudrukudru,grumbling
+definition,definition,definition|000310,definition.xlsx::Sheet1,fj,en,fj->en,kuli,skin
+definition,definition,definition|000311,definition.xlsx::Sheet1,fj,en,fj->en,kuli,bark
+definition,definition,definition|000312,definition.xlsx::Sheet1,fj,en,fj->en,kuli,bark (n)
+definition,definition,definition|000313,definition.xlsx::Sheet1,fj,en,fj->en,kumi,beard
+definition,definition,definition|000314,definition.xlsx::Sheet1,fj,en,fj->en,kunea,find
+definition,definition,definition|000315,definition.xlsx::Sheet1,fj,en,fj->en,kuro,pot
+definition,definition,definition|000316,definition.xlsx::Sheet1,fj,en,fj->en,kutunitana,bedbug
+definition,definition,definition|000317,definition.xlsx::Sheet1,fj,en,fj->en,laea,sail
+definition,definition,definition|000318,definition.xlsx::Sheet1,fj,en,fj->en,laga,fly
+definition,definition,definition|000319,definition.xlsx::Sheet1,fj,en,fj->en,laga sere,sing
+definition,definition,definition|000320,definition.xlsx::Sheet1,fj,en,fj->en,lailai,small
+definition,definition,definition|000321,definition.xlsx::Sheet1,fj,en,fj->en,lako,go
+definition,definition,definition|000322,definition.xlsx::Sheet1,fj,en,fj->en,lako mai,come
+definition,definition,definition|000323,definition.xlsx::Sheet1,fj,en,fj->en,lako tani,go away
+definition,definition,definition|000324,definition.xlsx::Sheet1,fj,en,fj->en,lali,bell
+definition,definition,definition|000325,definition.xlsx::Sheet1,fj,en,fj->en,lali,drum
+definition,definition,definition|000326,definition.xlsx::Sheet1,fj,en,fj->en,lase,coral
+definition,definition,definition|000327,definition.xlsx::Sheet1,fj,en,fj->en,lawa,net
+definition,definition,definition|000328,definition.xlsx::Sheet1,fj,en,fj->en,lawa-vaka,abduct
+definition,definition,definition|000329,definition.xlsx::Sheet1,fj,en,fj->en,lekaleka,short
+definition,definition,definition|000330,definition.xlsx::Sheet1,fj,en,fj->en,leqa,trouble
+definition,definition,definition|000331,definition.xlsx::Sheet1,fj,en,fj->en,lesoni,lesson
+definition,definition,definition|000332,definition.xlsx::Sheet1,fj,en,fj->en,lesu,return
+definition,definition,definition|000333,definition.xlsx::Sheet1,fj,en,fj->en,lesu mai,"back (be back, come back)"
+definition,definition,definition|000334,definition.xlsx::Sheet1,fj,en,fj->en,levu,big
+definition,definition,definition|000335,definition.xlsx::Sheet1,fj,en,fj->en,levu,great
+definition,definition,definition|000336,definition.xlsx::Sheet1,fj,en,fj->en,lewa,authority
+definition,definition,definition|000337,definition.xlsx::Sheet1,fj,en,fj->en,lewenivanua,commoners
+definition,definition,definition|000338,definition.xlsx::Sheet1,fj,en,fj->en,liga,arm
+definition,definition,definition|000339,definition.xlsx::Sheet1,fj,en,fj->en,liga,hand
+definition,definition,definition|000340,definition.xlsx::Sheet1,fj,en,fj->en,lima,five
+definition,definition,definition|000341,definition.xlsx::Sheet1,fj,en,fj->en,liwa,blow (wind)
+definition,definition,definition|000342,definition.xlsx::Sheet1,fj,en,fj->en,loaloa,black
+definition,definition,definition|000343,definition.xlsx::Sheet1,fj,en,fj->en,loli,candy
+definition,definition,definition|000344,definition.xlsx::Sheet1,fj,en,fj->en,loma,center
+definition,definition,definition|000345,definition.xlsx::Sheet1,fj,en,fj->en,loma,inside
+definition,definition,definition|000346,definition.xlsx::Sheet1,fj,en,fj->en,loma-donu,centre
+definition,definition,definition|000347,definition.xlsx::Sheet1,fj,en,fj->en,lomana,sorry
+definition,definition,definition|000348,definition.xlsx::Sheet1,fj,en,fj->en,lotu,religion
+definition,definition,definition|000349,definition.xlsx::Sheet1,fj,en,fj->en,lovo,earth oven
+definition,definition,definition|000350,definition.xlsx::Sheet1,fj,en,fj->en,lulu,owl
+definition,definition,definition|000351,definition.xlsx::Sheet1,fj,en,fj->en,lululu,handshake
+definition,definition,definition|000352,definition.xlsx::Sheet1,fj,en,fj->en,luve-,child (offspring)
+definition,definition,definition|000353,definition.xlsx::Sheet1,fj,en,fj->en,luvequ tagane,son
+definition,definition,definition|000354,definition.xlsx::Sheet1,fj,en,fj->en,luvequ tagane,sister's son
+definition,definition,definition|000355,definition.xlsx::Sheet1,fj,en,fj->en,luvequ yalewa,daughter
+definition,definition,definition|000356,definition.xlsx::Sheet1,fj,en,fj->en,luvequ yalewa,sister's daughter
+definition,definition,definition|000357,definition.xlsx::Sheet1,fj,en,fj->en,maca,dry
+definition,definition,definition|000358,definition.xlsx::Sheet1,fj,en,fj->en,"maca, lala",empty
+definition,definition,definition|000359,definition.xlsx::Sheet1,fj,en,fj->en,macala,clear (results)
+definition,definition,definition|000360,definition.xlsx::Sheet1,fj,en,fj->en,macawa,week
+definition,definition,definition|000361,definition.xlsx::Sheet1,fj,en,fj->en,madrai,bread
+definition,definition,definition|000362,definition.xlsx::Sheet1,fj,en,fj->en,madua,bashful
+definition,definition,definition|000363,definition.xlsx::Sheet1,fj,en,fj->en,madua,ashamed
+definition,definition,definition|000364,definition.xlsx::Sheet1,fj,en,fj->en,mai,"at, from, hither"
+definition,definition,definition|000365,definition.xlsx::Sheet1,fj,en,fj->en,mai,from
+definition,definition,definition|000366,definition.xlsx::Sheet1,fj,en,fj->en,mai valagi,abroad
+definition,definition,definition|000367,definition.xlsx::Sheet1,fj,en,fj->en,maile,mile
+definition,definition,definition|000368,definition.xlsx::Sheet1,fj,en,fj->en,makawa,old
+definition,definition,definition|000369,definition.xlsx::Sheet1,fj,en,fj->en,makawa,ancient
+definition,definition,definition|000370,definition.xlsx::Sheet1,fj,en,fj->en,makete,market
+definition,definition,definition|000371,definition.xlsx::Sheet1,fj,en,fj->en,makubuq tagane,daughter's son
+definition,definition,definition|000372,definition.xlsx::Sheet1,fj,en,fj->en,makubuqu tagane,son's son
+definition,definition,definition|000373,definition.xlsx::Sheet1,fj,en,fj->en,makubuqu yalewa,son's daughter
+definition,definition,definition|000374,definition.xlsx::Sheet1,fj,en,fj->en,makubuqu yalewa,daughter's daughter
+definition,definition,definition|000375,definition.xlsx::Sheet1,fj,en,fj->en,maliwai,among (persons)
+definition,definition,definition|000376,definition.xlsx::Sheet1,fj,en,fj->en,malua,gently
+definition,definition,definition|000377,definition.xlsx::Sheet1,fj,en,fj->en,mama,"chew, to"
+definition,definition,definition|000378,definition.xlsx::Sheet1,fj,en,fj->en,mamada,light in weight
+definition,definition,definition|000379,definition.xlsx::Sheet1,fj,en,fj->en,mamau,full
+definition,definition,definition|000380,definition.xlsx::Sheet1,fj,en,fj->en,mana,power
+definition,definition,definition|000381,definition.xlsx::Sheet1,fj,en,fj->en,manumanu,animal
+definition,definition,definition|000382,definition.xlsx::Sheet1,fj,en,fj->en,manumanu (vuka),bird
+definition,definition,definition|000383,definition.xlsx::Sheet1,fj,en,fj->en,maqo,mango
+definition,definition,definition|000384,definition.xlsx::Sheet1,fj,en,fj->en,marama,lady
+definition,definition,definition|000385,definition.xlsx::Sheet1,fj,en,fj->en,marau,pleasure
+definition,definition,definition|000386,definition.xlsx::Sheet1,fj,en,fj->en,marau,happy
+definition,definition,definition|000387,definition.xlsx::Sheet1,fj,en,fj->en,masese,matches
+definition,definition,definition|000388,definition.xlsx::Sheet1,fj,en,fj->en,masi,tapa
+definition,definition,definition|000389,definition.xlsx::Sheet1,fj,en,fj->en,mata,face
+definition,definition,definition|000390,definition.xlsx::Sheet1,fj,en,fj->en,mata,eye
+definition,definition,definition|000391,definition.xlsx::Sheet1,fj,en,fj->en,mata,ambassador
+definition,definition,definition|000392,definition.xlsx::Sheet1,fj,en,fj->en,mata ni vanua,herald
+definition,definition,definition|000393,definition.xlsx::Sheet1,fj,en,fj->en,mata.nitu,government
+definition,definition,definition|000394,definition.xlsx::Sheet1,fj,en,fj->en,mata.qali,type
+definition,definition,definition|000395,definition.xlsx::Sheet1,fj,en,fj->en,matabani,band (military)
+definition,definition,definition|000396,definition.xlsx::Sheet1,fj,en,fj->en,mataboko,blind
+definition,definition,definition|000397,definition.xlsx::Sheet1,fj,en,fj->en,matai,family head (elected)
+definition,definition,definition|000398,definition.xlsx::Sheet1,fj,en,fj->en,matai,smart
+definition,definition,definition|000399,definition.xlsx::Sheet1,fj,en,fj->en,matai,carpenter
+definition,definition,definition|000400,definition.xlsx::Sheet1,fj,en,fj->en,matai,i first
+definition,definition,definition|000401,definition.xlsx::Sheet1,fj,en,fj->en,"matai, mataisau",carpenter
+definition,definition,definition|000402,definition.xlsx::Sheet1,fj,en,fj->en,mataka,morning
+definition,definition,definition|000403,definition.xlsx::Sheet1,fj,en,fj->en,matanitu,confederacy
+definition,definition,definition|000404,definition.xlsx::Sheet1,fj,en,fj->en,matanivanua,"herald, ambassador"
+definition,definition,definition|000405,definition.xlsx::Sheet1,fj,en,fj->en,mataniwai,well
+definition,definition,definition|000406,definition.xlsx::Sheet1,fj,en,fj->en,matanqali,landowning group
+definition,definition,definition|000407,definition.xlsx::Sheet1,fj,en,fj->en,mataqiriqiri,band (musical)
+definition,definition,definition|000408,definition.xlsx::Sheet1,fj,en,fj->en,matasawa,beach (landing)
+definition,definition,definition|000409,definition.xlsx::Sheet1,fj,en,fj->en,matata,clear (understood)
+definition,definition,definition|000410,definition.xlsx::Sheet1,fj,en,fj->en,mate,die
+definition,definition,definition|000411,definition.xlsx::Sheet1,fj,en,fj->en,mate,disease
+definition,definition,definition|000412,definition.xlsx::Sheet1,fj,en,fj->en,matua,ripe
+definition,definition,definition|000413,definition.xlsx::Sheet1,fj,en,fj->en,matua,mature
+definition,definition,definition|000414,definition.xlsx::Sheet1,fj,en,fj->en,me,in order to
+definition,definition,definition|000415,definition.xlsx::Sheet1,fj,en,fj->en,"me, ni",that (conj.)
+definition,definition,definition|000416,definition.xlsx::Sheet1,fj,en,fj->en,meimei,babysitter
+definition,definition,definition|000417,definition.xlsx::Sheet1,fj,en,fj->en,meki,dance
+definition,definition,definition|000418,definition.xlsx::Sheet1,fj,en,fj->en,miniti,minute
+definition,definition,definition|000419,definition.xlsx::Sheet1,fj,en,fj->en,moce,"sleep, goodbye"
+definition,definition,definition|000420,definition.xlsx::Sheet1,fj,en,fj->en,moku,hit (usually with a stick)
+definition,definition,definition|000421,definition.xlsx::Sheet1,fj,en,fj->en,moku siga,waste time (hit the day)
+definition,definition,definition|000422,definition.xlsx::Sheet1,fj,en,fj->en,moli,orange
+definition,definition,definition|000423,definition.xlsx::Sheet1,fj,en,fj->en,moli,citrus
+definition,definition,definition|000424,definition.xlsx::Sheet1,fj,en,fj->en,momo,wife's mother's brother
+definition,definition,definition|000425,definition.xlsx::Sheet1,fj,en,fj->en,momo,husband's mother's brother
+definition,definition,definition|000426,definition.xlsx::Sheet1,fj,en,fj->en,momo,father's sister's husband
+definition,definition,definition|000427,definition.xlsx::Sheet1,fj,en,fj->en,momo,mother's brother
+definition,definition,definition|000428,definition.xlsx::Sheet1,fj,en,fj->en,momo,husband's father's brother
+definition,definition,definition|000429,definition.xlsx::Sheet1,fj,en,fj->en,momo,wife's father's brother
+definition,definition,definition|000430,definition.xlsx::Sheet1,fj,en,fj->en,mosi,ache
+definition,definition,definition|000431,definition.xlsx::Sheet1,fj,en,fj->en,moto,spear
+definition,definition,definition|000432,definition.xlsx::Sheet1,fj,en,fj->en,motoka,car (eng.)
+definition,definition,definition|000433,definition.xlsx::Sheet1,fj,en,fj->en,motoka,car
+definition,definition,definition|000434,definition.xlsx::Sheet1,fj,en,fj->en,motu,spear
+definition,definition,definition|000435,definition.xlsx::Sheet1,fj,en,fj->en,mua,sailor
+definition,definition,definition|000436,definition.xlsx::Sheet1,fj,en,fj->en,mudre,breeze
+definition,definition,definition|000437,definition.xlsx::Sheet1,fj,en,fj->en,muni,nd person plural
+definition,definition,definition|000438,definition.xlsx::Sheet1,fj,en,fj->en,musuka,break
+definition,definition,definition|000439,definition.xlsx::Sheet1,fj,en,fj->en,na,any (a quantity of)
+definition,definition,definition|000440,definition.xlsx::Sheet1,fj,en,fj->en,na,will
+definition,definition,definition|000441,definition.xlsx::Sheet1,fj,en,fj->en,na,marker for common nouns
+definition,definition,definition|000442,definition.xlsx::Sheet1,fj,en,fj->en,na,rd person singular
+definition,definition,definition|000443,definition.xlsx::Sheet1,fj,en,fj->en,na cava oqo,what is this
+definition,definition,definition|000444,definition.xlsx::Sheet1,fj,en,fj->en,"na, a",the
+definition,definition,definition|000445,definition.xlsx::Sheet1,fj,en,fj->en,nabugoqu tagane,husband's father
+definition,definition,definition|000446,definition.xlsx::Sheet1,fj,en,fj->en,nabugoqu tagane,wife's father
+definition,definition,definition|000447,definition.xlsx::Sheet1,fj,en,fj->en,nabugoqu yalewa,husband's mother
+definition,definition,definition|000448,definition.xlsx::Sheet1,fj,en,fj->en,nabugoqu yalewa,wife's mother
+definition,definition,definition|000449,definition.xlsx::Sheet1,fj,en,fj->en,naica,when?
+definition,definition,definition|000450,definition.xlsx::Sheet1,fj,en,fj->en,namu,mosquito
+definition,definition,definition|000451,definition.xlsx::Sheet1,fj,en,fj->en,nana,mother
+definition,definition,definition|000452,definition.xlsx::Sheet1,fj,en,fj->en,nana lailai,mother's younger sister
+definition,definition,definition|000453,definition.xlsx::Sheet1,fj,en,fj->en,nana lailai,father's younger brother's wife
+definition,definition,definition|000454,definition.xlsx::Sheet1,fj,en,fj->en,nana levu,father's elder brother's wife
+definition,definition,definition|000455,definition.xlsx::Sheet1,fj,en,fj->en,nana levu,mother's elder sister
+definition,definition,definition|000456,definition.xlsx::Sheet1,fj,en,fj->en,nanoa,yesterday
+definition,definition,definition|000457,definition.xlsx::Sheet1,fj,en,fj->en,nanuma,think
+definition,definition,definition|000458,definition.xlsx::Sheet1,fj,en,fj->en,nei,father's sister
+definition,definition,definition|000459,definition.xlsx::Sheet1,fj,en,fj->en,nei,mother's brother's wife
+definition,definition,definition|000460,definition.xlsx::Sheet1,fj,en,fj->en,nei,wife's mother's sister
+definition,definition,definition|000461,definition.xlsx::Sheet1,fj,en,fj->en,nei,husband's mother's sister
+definition,definition,definition|000462,definition.xlsx::Sheet1,fj,en,fj->en,nei,aunt
+definition,definition,definition|000463,definition.xlsx::Sheet1,fj,en,fj->en,nei,husband's father's sister
+definition,definition,definition|000464,definition.xlsx::Sheet1,fj,en,fj->en,nei,wife's father's sister
+definition,definition,definition|000465,definition.xlsx::Sheet1,fj,en,fj->en,ni,for
+definition,definition,definition|000466,definition.xlsx::Sheet1,fj,en,fj->en,ni,nd person plural (oni)
+definition,definition,definition|000467,definition.xlsx::Sheet1,fj,en,fj->en,ni,when (conj.)
+definition,definition,definition|000468,definition.xlsx::Sheet1,fj,en,fj->en,ni mataka,tomorrow
+definition,definition,definition|000469,definition.xlsx::Sheet1,fj,en,fj->en,ni sa moce,goodbye
+definition,definition,definition|000470,definition.xlsx::Sheet1,fj,en,fj->en,ni sa yadra,good morning
+definition,definition,definition|000471,definition.xlsx::Sheet1,fj,en,fj->en,"ni, nei",of
+definition,definition,definition|000472,definition.xlsx::Sheet1,fj,en,fj->en,nikua,today
+definition,definition,definition|000473,definition.xlsx::Sheet1,fj,en,fj->en,nima,"bail, to"
+definition,definition,definition|000474,definition.xlsx::Sheet1,fj,en,fj->en,nimataka,tomorrow
+definition,definition,definition|000475,definition.xlsx::Sheet1,fj,en,fj->en,nimima,bailer
+definition,definition,definition|000476,definition.xlsx::Sheet1,fj,en,fj->en,"niu, bu",coconut
+definition,definition,definition|000477,definition.xlsx::Sheet1,fj,en,fj->en,niusi.veva,newspaper
+definition,definition,definition|000478,definition.xlsx::Sheet1,fj,en,fj->en,noqu daku tagane,husband's brother
+definition,definition,definition|000479,definition.xlsx::Sheet1,fj,en,fj->en,noqu daku yalewa,husband's sister
+definition,definition,definition|000480,definition.xlsx::Sheet1,fj,en,fj->en,noqu veitabuki tagane,husband's sister's husband
+definition,definition,definition|000481,definition.xlsx::Sheet1,fj,en,fj->en,noqu veitabuki yalewa,wife's brother's wife
+definition,definition,definition|000482,definition.xlsx::Sheet1,fj,en,fj->en,"noti, ilavo pepa",banknote
+definition,definition,definition|000483,definition.xlsx::Sheet1,fj,en,fj->en,nui.taka,hope
+definition,definition,definition|000484,definition.xlsx::Sheet1,fj,en,fj->en,nuku,sand
+definition,definition,definition|000485,definition.xlsx::Sheet1,fj,en,fj->en,o,marker for proper nouns (ko)
+definition,definition,definition|000486,definition.xlsx::Sheet1,fj,en,fj->en,oca,tired
+definition,definition,definition|000487,definition.xlsx::Sheet1,fj,en,fj->en,ogavae,thigh
+definition,definition,definition|000488,definition.xlsx::Sheet1,fj,en,fj->en,oiau,contraction of ko i au
+definition,definition,definition|000489,definition.xlsx::Sheet1,fj,en,fj->en,oni,nd person plural
+definition,definition,definition|000490,definition.xlsx::Sheet1,fj,en,fj->en,ono,six
+definition,definition,definition|000491,definition.xlsx::Sheet1,fj,en,fj->en,oqo,this
+definition,definition,definition|000492,definition.xlsx::Sheet1,fj,en,fj->en,oqo,"here, this"
+definition,definition,definition|000493,definition.xlsx::Sheet1,fj,en,fj->en,oqori,"there, that"
+definition,definition,definition|000494,definition.xlsx::Sheet1,fj,en,fj->en,"oqori, oya",that (adj.)
+definition,definition,definition|000495,definition.xlsx::Sheet1,fj,en,fj->en,ose,horse
+definition,definition,definition|000496,definition.xlsx::Sheet1,fj,en,fj->en,"osooso, ogaoga",busy
+definition,definition,definition|000497,definition.xlsx::Sheet1,fj,en,fj->en,otela,hotel
+definition,definition,definition|000498,definition.xlsx::Sheet1,fj,en,fj->en,"otela, icili",accommodation
+definition,definition,definition|000499,definition.xlsx::Sheet1,fj,en,fj->en,oti,finished
+definition,definition,definition|000500,definition.xlsx::Sheet1,fj,en,fj->en,oti,after (wards)
+definition,definition,definition|000501,definition.xlsx::Sheet1,fj,en,fj->en,ou,cloud
+definition,definition,definition|000502,definition.xlsx::Sheet1,fj,en,fj->en,pea,avocado
+definition,definition,definition|000503,definition.xlsx::Sheet1,fj,en,fj->en,"peipei, gonedramidrami",baby
+definition,definition,definition|000504,definition.xlsx::Sheet1,fj,en,fj->en,peni,pen (eng.)
+definition,definition,definition|000505,definition.xlsx::Sheet1,fj,en,fj->en,peni,penny
+definition,definition,definition|000506,definition.xlsx::Sheet1,fj,en,fj->en,polo,ball
+definition,definition,definition|000507,definition.xlsx::Sheet1,fj,en,fj->en,positovesi,post office
+definition,definition,definition|000508,definition.xlsx::Sheet1,fj,en,fj->en,pusi,cat
+definition,definition,definition|000509,definition.xlsx::Sheet1,fj,en,fj->en,qalo,swim
+definition,definition,definition|000510,definition.xlsx::Sheet1,fj,en,fj->en,"qarauna, maroroya",care
+definition,definition,definition|000511,definition.xlsx::Sheet1,fj,en,fj->en,qaravatu,cave
+definition,definition,definition|000512,definition.xlsx::Sheet1,fj,en,fj->en,qase,old person
+definition,definition,definition|000513,definition.xlsx::Sheet1,fj,en,fj->en,qase ni vuli,school teacher
+definition,definition,definition|000514,definition.xlsx::Sheet1,fj,en,fj->en,qasi ni vuli,teacher
+definition,definition,definition|000515,definition.xlsx::Sheet1,fj,en,fj->en,qasikalolo,ant
+definition,definition,definition|000516,definition.xlsx::Sheet1,fj,en,fj->en,qato,bracelet
+definition,definition,definition|000517,definition.xlsx::Sheet1,fj,en,fj->en,qele,earth
+definition,definition,definition|000518,definition.xlsx::Sheet1,fj,en,fj->en,"qele, vanua",land
+definition,definition,definition|000519,definition.xlsx::Sheet1,fj,en,fj->en,qito,"play, recreate"
+definition,definition,definition|000520,definition.xlsx::Sheet1,fj,en,fj->en,qoli,fish with nets
+definition,definition,definition|000521,definition.xlsx::Sheet1,fj,en,fj->en,qoroya,admire
+definition,definition,definition|000522,definition.xlsx::Sheet1,fj,en,fj->en,qu,st person singular
+definition,definition,definition|000523,definition.xlsx::Sheet1,fj,en,fj->en,ra,down
+definition,definition,definition|000524,definition.xlsx::Sheet1,fj,en,fj->en,raica,see
+definition,definition,definition|000525,definition.xlsx::Sheet1,fj,en,fj->en,ramase,bright
+definition,definition,definition|000526,definition.xlsx::Sheet1,fj,en,fj->en,ramusu,broken (bone)
+definition,definition,definition|000527,definition.xlsx::Sheet1,fj,en,fj->en,rara,village green
+definition,definition,definition|000528,definition.xlsx::Sheet1,fj,en,fj->en,raraba,wide
+definition,definition,definition|000529,definition.xlsx::Sheet1,fj,en,fj->en,rarawa,unhappiness
+definition,definition,definition|000530,definition.xlsx::Sheet1,fj,en,fj->en,"rau, ratou, era, ra, ira",they
+definition,definition,definition|000531,definition.xlsx::Sheet1,fj,en,fj->en,rauta,enough
+definition,definition,definition|000532,definition.xlsx::Sheet1,fj,en,fj->en,rauta,about (approx)
+definition,definition,definition|000533,definition.xlsx::Sheet1,fj,en,fj->en,ravi-ta,against (lean against)
+definition,definition,definition|000534,definition.xlsx::Sheet1,fj,en,fj->en,rawa,able
+definition,definition,definition|000535,definition.xlsx::Sheet1,fj,en,fj->en,rawa,possible
+definition,definition,definition|000536,definition.xlsx::Sheet1,fj,en,fj->en,rawa.rawa,easy
+definition,definition,definition|000537,definition.xlsx::Sheet1,fj,en,fj->en,rere,afraid
+definition,definition,definition|000538,definition.xlsx::Sheet1,fj,en,fj->en,rerevaka,afraid of
+definition,definition,definition|000539,definition.xlsx::Sheet1,fj,en,fj->en,rogoca,hear
+definition,definition,definition|000540,definition.xlsx::Sheet1,fj,en,fj->en,"rokete, boro",chilli
+definition,definition,definition|000541,definition.xlsx::Sheet1,fj,en,fj->en,roqo-ta,carry in arms
+definition,definition,definition|000542,definition.xlsx::Sheet1,fj,en,fj->en,rourou,eatible greens
+definition,definition,definition|000543,definition.xlsx::Sheet1,fj,en,fj->en,rua,two
+definition,definition,definition|000544,definition.xlsx::Sheet1,fj,en,fj->en,ruarua,both
+definition,definition,definition|000545,definition.xlsx::Sheet1,fj,en,fj->en,ruasagavulu,twenty
+definition,definition,definition|000546,definition.xlsx::Sheet1,fj,en,fj->en,rui,too much
+definition,definition,definition|000547,definition.xlsx::Sheet1,fj,en,fj->en,rumu,room
+definition,definition,definition|000548,definition.xlsx::Sheet1,fj,en,fj->en,sa,verbal particle
+definition,definition,definition|000549,definition.xlsx::Sheet1,fj,en,fj->en,sa bula,"good day, hello"
+definition,definition,definition|000550,definition.xlsx::Sheet1,fj,en,fj->en,sa vakaisini,abased
+definition,definition,definition|000551,definition.xlsx::Sheet1,fj,en,fj->en,saka,sir
+definition,definition,definition|000552,definition.xlsx::Sheet1,fj,en,fj->en,saka,"sir, madam"
+definition,definition,definition|000553,definition.xlsx::Sheet1,fj,en,fj->en,"sala, gauni.sala",road
+definition,definition,definition|000554,definition.xlsx::Sheet1,fj,en,fj->en,"sala, gaunisala","path, track, road"
+definition,definition,definition|000555,definition.xlsx::Sheet1,fj,en,fj->en,saqa,boiled
+definition,definition,definition|000556,definition.xlsx::Sheet1,fj,en,fj->en,saqata,against (be against)
+definition,definition,definition|000557,definition.xlsx::Sheet1,fj,en,fj->en,sara,very
+definition,definition,definition|000558,definition.xlsx::Sheet1,fj,en,fj->en,"saulailai, saurawarawa",cheap
+definition,definition,definition|000559,definition.xlsx::Sheet1,fj,en,fj->en,sauma,answer (v)
+definition,definition,definition|000560,definition.xlsx::Sheet1,fj,en,fj->en,savata,wash
+definition,definition,definition|000561,definition.xlsx::Sheet1,fj,en,fj->en,savata,clean
+definition,definition,definition|000562,definition.xlsx::Sheet1,fj,en,fj->en,se,or
+definition,definition,definition|000563,definition.xlsx::Sheet1,fj,en,fj->en,se,whether
+definition,definition,definition|000564,definition.xlsx::Sheet1,fj,en,fj->en,se qai vuli,beginner
+definition,definition,definition|000565,definition.xlsx::Sheet1,fj,en,fj->en,sede,cent
+definition,definition,definition|000566,definition.xlsx::Sheet1,fj,en,fj->en,sega,no
+definition,definition,definition|000567,definition.xlsx::Sheet1,fj,en,fj->en,sega ni,not
+definition,definition,definition|000568,definition.xlsx::Sheet1,fj,en,fj->en,segai,no
+definition,definition,definition|000569,definition.xlsx::Sheet1,fj,en,fj->en,sele,knife
+definition,definition,definition|000570,definition.xlsx::Sheet1,fj,en,fj->en,senikau,flower
+definition,definition,definition|000571,definition.xlsx::Sheet1,fj,en,fj->en,sere,chest
+definition,definition,definition|000572,definition.xlsx::Sheet1,fj,en,fj->en,sevusevu,formal presentation
+definition,definition,definition|000573,definition.xlsx::Sheet1,fj,en,fj->en,siga,day
+definition,definition,definition|000574,definition.xlsx::Sheet1,fj,en,fj->en,siga,sunny
+definition,definition,definition|000575,definition.xlsx::Sheet1,fj,en,fj->en,siga.levu,noon
+definition,definition,definition|000576,definition.xlsx::Sheet1,fj,en,fj->en,sigaanisucu,birthday
+definition,definition,definition|000577,definition.xlsx::Sheet1,fj,en,fj->en,sigalevu,afternoon
+definition,definition,definition|000578,definition.xlsx::Sheet1,fj,en,fj->en,"sili, sisili",bathe
+definition,definition,definition|000579,definition.xlsx::Sheet1,fj,en,fj->en,sisili,bathe
+definition,definition,definition|000580,definition.xlsx::Sheet1,fj,en,fj->en,sitoa,store
+definition,definition,definition|000581,definition.xlsx::Sheet1,fj,en,fj->en,sitoa,shop
+definition,definition,definition|000582,definition.xlsx::Sheet1,fj,en,fj->en,sitoa no ivola,bookshop
+definition,definition,definition|000583,definition.xlsx::Sheet1,fj,en,fj->en,siwa,fish with line
+definition,definition,definition|000584,definition.xlsx::Sheet1,fj,en,fj->en,"siwa, qoli",fish (v.)
+definition,definition,definition|000585,definition.xlsx::Sheet1,fj,en,fj->en,so,some
+definition,definition,definition|000586,definition.xlsx::Sheet1,fj,en,fj->en,sogota,close (v.)
+definition,definition,definition|000587,definition.xlsx::Sheet1,fj,en,fj->en,soko,beam
+definition,definition,definition|000588,definition.xlsx::Sheet1,fj,en,fj->en,soko,sail (v.)
+definition,definition,definition|000589,definition.xlsx::Sheet1,fj,en,fj->en,solia,give
+definition,definition,definition|000590,definition.xlsx::Sheet1,fj,en,fj->en,soro,apology (ceremonial act of)
+definition,definition,definition|000591,definition.xlsx::Sheet1,fj,en,fj->en,sote,shirt
+definition,definition,definition|000592,definition.xlsx::Sheet1,fj,en,fj->en,sovu,soap
+definition,definition,definition|000593,definition.xlsx::Sheet1,fj,en,fj->en,sua.sua,wet
+definition,definition,definition|000594,definition.xlsx::Sheet1,fj,en,fj->en,sucu,born
+definition,definition,definition|000595,definition.xlsx::Sheet1,fj,en,fj->en,sucu,breast
+definition,definition,definition|000596,definition.xlsx::Sheet1,fj,en,fj->en,sucuna,mammae
+definition,definition,definition|000597,definition.xlsx::Sheet1,fj,en,fj->en,suka,sugar
+definition,definition,definition|000598,definition.xlsx::Sheet1,fj,en,fj->en,sulu,sarong
+definition,definition,definition|000599,definition.xlsx::Sheet1,fj,en,fj->en,tabana,branch
+definition,definition,definition|000600,definition.xlsx::Sheet1,fj,en,fj->en,tabu,forbidden
+definition,definition,definition|000601,definition.xlsx::Sheet1,fj,en,fj->en,tabu,"sacred, forbidden"
+definition,definition,definition|000602,definition.xlsx::Sheet1,fj,en,fj->en,tabua,whale's tooth
+definition,definition,definition|000603,definition.xlsx::Sheet1,fj,en,fj->en,tabua,whaleæs tooth
+definition,definition,definition|000604,definition.xlsx::Sheet1,fj,en,fj->en,taci-,brother
+definition,definition,definition|000605,definition.xlsx::Sheet1,fj,en,fj->en,taciqu tagane,younger brother
+definition,definition,definition|000606,definition.xlsx::Sheet1,fj,en,fj->en,taciqu yalewa,younger sister
+definition,definition,definition|000607,definition.xlsx::Sheet1,fj,en,fj->en,tagane,man
+definition,definition,definition|000608,definition.xlsx::Sheet1,fj,en,fj->en,tagica,cry
+definition,definition,definition|000609,definition.xlsx::Sheet1,fj,en,fj->en,takoso-va,across (go across)
+definition,definition,definition|000610,definition.xlsx::Sheet1,fj,en,fj->en,tale,again
+definition,definition,definition|000611,definition.xlsx::Sheet1,fj,en,fj->en,tale ga,also
+definition,definition,definition|000612,definition.xlsx::Sheet1,fj,en,fj->en,tama,father
+definition,definition,definition|000613,definition.xlsx::Sheet1,fj,en,fj->en,tamanibulumakau,bull
+definition,definition,definition|000614,definition.xlsx::Sheet1,fj,en,fj->en,tamata,person
+definition,definition,definition|000615,definition.xlsx::Sheet1,fj,en,fj->en,tani,away
+definition,definition,definition|000616,definition.xlsx::Sheet1,fj,en,fj->en,tanoa,bowl
+definition,definition,definition|000617,definition.xlsx::Sheet1,fj,en,fj->en,tanoa,kava-bowl
+definition,definition,definition|000618,definition.xlsx::Sheet1,fj,en,fj->en,tara,build (building)
+definition,definition,definition|000619,definition.xlsx::Sheet1,fj,en,fj->en,"tara.lala, danisi",dance
+definition,definition,definition|000620,definition.xlsx::Sheet1,fj,en,fj->en,tarausese,trousers (eng.)
+definition,definition,definition|000621,definition.xlsx::Sheet1,fj,en,fj->en,taro-ga,ask
+definition,definition,definition|000622,definition.xlsx::Sheet1,fj,en,fj->en,tata,father
+definition,definition,definition|000623,definition.xlsx::Sheet1,fj,en,fj->en,tata lailai,father's younger brother
+definition,definition,definition|000624,definition.xlsx::Sheet1,fj,en,fj->en,tata lailai,mother's younger sister's husban
+definition,definition,definition|000625,definition.xlsx::Sheet1,fj,en,fj->en,tata levu,mother's elder sister's husband
+definition,definition,definition|000626,definition.xlsx::Sheet1,fj,en,fj->en,tata levu,father's elder brother
+definition,definition,definition|000627,definition.xlsx::Sheet1,fj,en,fj->en,tau,fall (rain)
+definition,definition,definition|000628,definition.xlsx::Sheet1,fj,en,fj->en,tau.tau.vata,equal
+definition,definition,definition|000629,definition.xlsx::Sheet1,fj,en,fj->en,tau.tau.vata,even
+definition,definition,definition|000630,definition.xlsx::Sheet1,fj,en,fj->en,taubale,"walk, stroll"
+definition,definition,definition|000631,definition.xlsx::Sheet1,fj,en,fj->en,taube,lock of hair of virginity
+definition,definition,definition|000632,definition.xlsx::Sheet1,fj,en,fj->en,taukei ni qele,owner of soil
+definition,definition,definition|000633,definition.xlsx::Sheet1,fj,en,fj->en,taura,hold
+definition,definition,definition|000634,definition.xlsx::Sheet1,fj,en,fj->en,tauvi.mate,ill
+definition,definition,definition|000635,definition.xlsx::Sheet1,fj,en,fj->en,tauvu,sharing ancestral god
+definition,definition,definition|000636,definition.xlsx::Sheet1,fj,en,fj->en,tavalequ tagane,wife's brother
+definition,definition,definition|000637,definition.xlsx::Sheet1,fj,en,fj->en,tavalequ yalewa,wife's sister
+definition,definition,definition|000638,definition.xlsx::Sheet1,fj,en,fj->en,tavaya,bottle
+definition,definition,definition|000639,definition.xlsx::Sheet1,fj,en,fj->en,tavi.oka,tapioca
+definition,definition,definition|000640,definition.xlsx::Sheet1,fj,en,fj->en,tavioka,cassava
+definition,definition,definition|000641,definition.xlsx::Sheet1,fj,en,fj->en,tavu ni sisili,bath
+definition,definition,definition|000642,definition.xlsx::Sheet1,fj,en,fj->en,tea,plant (v.)
+definition,definition,definition|000643,definition.xlsx::Sheet1,fj,en,fj->en,tei tuu,abeyance
+definition,definition,definition|000644,definition.xlsx::Sheet1,fj,en,fj->en,teitei,agriculture
+definition,definition,definition|000645,definition.xlsx::Sheet1,fj,en,fj->en,teitei,garden plot
+definition,definition,definition|000646,definition.xlsx::Sheet1,fj,en,fj->en,tekivu,begin
+definition,definition,definition|000647,definition.xlsx::Sheet1,fj,en,fj->en,teveli,table
+definition,definition,definition|000648,definition.xlsx::Sheet1,fj,en,fj->en,tiki,bit
+definition,definition,definition|000649,definition.xlsx::Sheet1,fj,en,fj->en,tiko,stay
+definition,definition,definition|000650,definition.xlsx::Sheet1,fj,en,fj->en,"tiko, dabe",sit
+definition,definition,definition|000651,definition.xlsx::Sheet1,fj,en,fj->en,tina,mother
+definition,definition,definition|000652,definition.xlsx::Sheet1,fj,en,fj->en,tina-lailai,aunt
+definition,definition,definition|000653,definition.xlsx::Sheet1,fj,en,fj->en,tina-levu,aunt
+definition,definition,definition|000654,definition.xlsx::Sheet1,fj,en,fj->en,tini,ten
+definition,definition,definition|000655,definition.xlsx::Sheet1,fj,en,fj->en,toa,fowl
+definition,definition,definition|000656,definition.xlsx::Sheet1,fj,en,fj->en,toa,chicken
+definition,definition,definition|000657,definition.xlsx::Sheet1,fj,en,fj->en,toba,bay
+definition,definition,definition|000658,definition.xlsx::Sheet1,fj,en,fj->en,tobo-ka,catch (thing running)
+definition,definition,definition|000659,definition.xlsx::Sheet1,fj,en,fj->en,tokatoka,sub-clan
+definition,definition,definition|000660,definition.xlsx::Sheet1,fj,en,fj->en,tolu,three
+definition,definition,definition|000661,definition.xlsx::Sheet1,fj,en,fj->en,totoka,handsome
+definition,definition,definition|000662,definition.xlsx::Sheet1,fj,en,fj->en,totoka,pretty
+definition,definition,definition|000663,definition.xlsx::Sheet1,fj,en,fj->en,totoka,beautiful
+definition,definition,definition|000664,definition.xlsx::Sheet1,fj,en,fj->en,"totolo, vakatotolo","fast, quick"
+definition,definition,definition|000665,definition.xlsx::Sheet1,fj,en,fj->en,tovo.lea,try
+definition,definition,definition|000666,definition.xlsx::Sheet1,fj,en,fj->en,tu,stand
+definition,definition,definition|000667,definition.xlsx::Sheet1,fj,en,fj->en,tu cake,stand up
+definition,definition,definition|000668,definition.xlsx::Sheet1,fj,en,fj->en,tuaka-,brother
+definition,definition,definition|000669,definition.xlsx::Sheet1,fj,en,fj->en,tuakaqu tagane,elder brother
+definition,definition,definition|000670,definition.xlsx::Sheet1,fj,en,fj->en,tuakaqu yalewa,elder sister
+definition,definition,definition|000671,definition.xlsx::Sheet1,fj,en,fj->en,tuba,outside
+definition,definition,definition|000672,definition.xlsx::Sheet1,fj,en,fj->en,tui,a title
+definition,definition,definition|000673,definition.xlsx::Sheet1,fj,en,fj->en,tukuna,tell
+definition,definition,definition|000674,definition.xlsx::Sheet1,fj,en,fj->en,tukuna,say
+definition,definition,definition|000675,definition.xlsx::Sheet1,fj,en,fj->en,tulou/tilou,excuse me
+definition,definition,definition|000676,definition.xlsx::Sheet1,fj,en,fj->en,turaga,mister
+definition,definition,definition|000677,definition.xlsx::Sheet1,fj,en,fj->en,turaga,chief
+definition,definition,definition|000678,definition.xlsx::Sheet1,fj,en,fj->en,turaga,chief or gentleman
+definition,definition,definition|000679,definition.xlsx::Sheet1,fj,en,fj->en,tuva,build (wall)
+definition,definition,definition|000680,definition.xlsx::Sheet1,fj,en,fj->en,tε,tea
+definition,definition,definition|000681,definition.xlsx::Sheet1,fj,en,fj->en,ualeti,papwe
+definition,definition,definition|000682,definition.xlsx::Sheet1,fj,en,fj->en,uca,rain
+definition,definition,definition|000683,definition.xlsx::Sheet1,fj,en,fj->en,uci.wai,river
+definition,definition,definition|000684,definition.xlsx::Sheet1,fj,en,fj->en,ucu,nose
+definition,definition,definition|000685,definition.xlsx::Sheet1,fj,en,fj->en,udolu,thousand
+definition,definition,definition|000686,definition.xlsx::Sheet1,fj,en,fj->en,ueu,nose
+definition,definition,definition|000687,definition.xlsx::Sheet1,fj,en,fj->en,uludamu,"brunet, brunette"
+definition,definition,definition|000688,definition.xlsx::Sheet1,fj,en,fj->en,ulunivanua,mountain
+definition,definition,definition|000689,definition.xlsx::Sheet1,fj,en,fj->en,uluvula,blond
+definition,definition,definition|000690,definition.xlsx::Sheet1,fj,en,fj->en,urou,lobster
+definition,definition,definition|000691,definition.xlsx::Sheet1,fj,en,fj->en,uto,breadfruit
+definition,definition,definition|000692,definition.xlsx::Sheet1,fj,en,fj->en,uvi,yam
+definition,definition,definition|000693,definition.xlsx::Sheet1,fj,en,fj->en,uvu-ca,blow (person)
+definition,definition,definition|000694,definition.xlsx::Sheet1,fj,en,fj->en,va,four
+definition,definition,definition|000695,definition.xlsx::Sheet1,fj,en,fj->en,vadreti-taka,bandage (v)
+definition,definition,definition|000696,definition.xlsx::Sheet1,fj,en,fj->en,vaka,causative adverb prefix
+definition,definition,definition|000697,definition.xlsx::Sheet1,fj,en,fj->en,vaka lailai,little
+definition,definition,definition|000698,definition.xlsx::Sheet1,fj,en,fj->en,vaka levu,plenty
+definition,definition,definition|000699,definition.xlsx::Sheet1,fj,en,fj->en,vaka totolo,quickly
+definition,definition,definition|000700,definition.xlsx::Sheet1,fj,en,fj->en,vaka.cava,how?
+definition,definition,definition|000701,definition.xlsx::Sheet1,fj,en,fj->en,vaka.cegu,retire
+definition,definition,definition|000702,definition.xlsx::Sheet1,fj,en,fj->en,vaka.evei,how about?
+definition,definition,definition|000703,definition.xlsx::Sheet1,fj,en,fj->en,"vaka.levu, sara",greatly
+definition,definition,definition|000704,definition.xlsx::Sheet1,fj,en,fj->en,vaka.matea,kill
+definition,definition,definition|000705,definition.xlsx::Sheet1,fj,en,fj->en,vaka.mau,marriage
+definition,definition,definition|000706,definition.xlsx::Sheet1,fj,en,fj->en,vaka.rai.taka,show
+definition,definition,definition|000707,definition.xlsx::Sheet1,fj,en,fj->en,vaka.rau,ready
+definition,definition,definition|000708,definition.xlsx::Sheet1,fj,en,fj->en,vaka.saqa,cook
+definition,definition,definition|000709,definition.xlsx::Sheet1,fj,en,fj->en,vaka.yakavi,dinner
+definition,definition,definition|000710,definition.xlsx::Sheet1,fj,en,fj->en,vakabatabatataki,air conditioned
+definition,definition,definition|000711,definition.xlsx::Sheet1,fj,en,fj->en,vakabauta,believe
+definition,definition,definition|000712,definition.xlsx::Sheet1,fj,en,fj->en,vakacaca,apporximately
+definition,definition,definition|000713,definition.xlsx::Sheet1,fj,en,fj->en,vakacalaka,accident
+definition,definition,definition|000714,definition.xlsx::Sheet1,fj,en,fj->en,vakadinata,admit
+definition,definition,definition|000715,definition.xlsx::Sheet1,fj,en,fj->en,vakadonuya,allow
+definition,definition,definition|000716,definition.xlsx::Sheet1,fj,en,fj->en,vakaisi-na,abase
+definition,definition,definition|000717,definition.xlsx::Sheet1,fj,en,fj->en,vakalailai-taka,abate
+definition,definition,definition|000718,definition.xlsx::Sheet1,fj,en,fj->en,vakalekaleka-taka,abbreviate
+definition,definition,definition|000719,definition.xlsx::Sheet1,fj,en,fj->en,vakaloloma,abject
+definition,definition,definition|000720,definition.xlsx::Sheet1,fj,en,fj->en,vakalougatataka,bless
+definition,definition,definition|000721,definition.xlsx::Sheet1,fj,en,fj->en,vakama,burn (n)
+definition,definition,definition|000722,definition.xlsx::Sheet1,fj,en,fj->en,vakamadua-taka,abash
+definition,definition,definition|000723,definition.xlsx::Sheet1,fj,en,fj->en,vaka-malua,slowly
+definition,definition,definition|000724,definition.xlsx::Sheet1,fj,en,fj->en,vakasala,advice
+definition,definition,definition|000725,definition.xlsx::Sheet1,fj,en,fj->en,vakasaqa-ra,boil (v)
+definition,definition,definition|000726,definition.xlsx::Sheet1,fj,en,fj->en,vakasucuma,breastfeed
+definition,definition,definition|000727,definition.xlsx::Sheet1,fj,en,fj->en,vaka-valagi,english
+definition,definition,definition|000728,definition.xlsx::Sheet1,fj,en,fj->en,"vakavalelaca, keba",camp (v)
+definition,definition,definition|000729,definition.xlsx::Sheet1,fj,en,fj->en,vaka-viti,fijian
+definition,definition,definition|000730,definition.xlsx::Sheet1,fj,en,fj->en,vakavucesa,boring
+definition,definition,definition|000731,definition.xlsx::Sheet1,fj,en,fj->en,vake-cegu,"rest, retire"
+definition,definition,definition|000732,definition.xlsx::Sheet1,fj,en,fj->en,vale,building
+definition,definition,definition|000733,definition.xlsx::Sheet1,fj,en,fj->en,vale ni kana,restaurant
+definition,definition,definition|000734,definition.xlsx::Sheet1,fj,en,fj->en,vale ni kuro,"kitchen, cooking house"
+definition,definition,definition|000735,definition.xlsx::Sheet1,fj,en,fj->en,vale ni lotu,church
+definition,definition,definition|000736,definition.xlsx::Sheet1,fj,en,fj->en,vale ni vola.vola,office
+definition,definition,definition|000737,definition.xlsx::Sheet1,fj,en,fj->en,vale ni yaqona,yaqona-drinking house
+definition,definition,definition|000738,definition.xlsx::Sheet1,fj,en,fj->en,vale ni yaqona,bar
+definition,definition,definition|000739,definition.xlsx::Sheet1,fj,en,fj->en,vale tabu,church building
+definition,definition,definition|000740,definition.xlsx::Sheet1,fj,en,fj->en,vale/bure,house
+definition,definition,definition|000741,definition.xlsx::Sheet1,fj,en,fj->en,vale/lailai,toilet
+definition,definition,definition|000742,definition.xlsx::Sheet1,fj,en,fj->en,valelevu,chief's house
+definition,definition,definition|000743,definition.xlsx::Sheet1,fj,en,fj->en,valenigunu,bar
+definition,definition,definition|000744,definition.xlsx::Sheet1,fj,en,fj->en,valenikana,café
+definition,definition,definition|000745,definition.xlsx::Sheet1,fj,en,fj->en,valenisili,bathroom
+definition,definition,definition|000746,definition.xlsx::Sheet1,fj,en,fj->en,vanua,place
+definition,definition,definition|000747,definition.xlsx::Sheet1,fj,en,fj->en,vanua,"land, place"
+definition,definition,definition|000748,definition.xlsx::Sheet1,fj,en,fj->en,vaqumia,bribe
+definition,definition,definition|000749,definition.xlsx::Sheet1,fj,en,fj->en,varada,balcony
+definition,definition,definition|000750,definition.xlsx::Sheet1,fj,en,fj->en,vasu,sister's son
+definition,definition,definition|000751,definition.xlsx::Sheet1,fj,en,fj->en,vatu,stone
+definition,definition,definition|000752,definition.xlsx::Sheet1,fj,en,fj->en,vava,carry (person) on back
+definition,definition,definition|000753,definition.xlsx::Sheet1,fj,en,fj->en,vava,"shoe, sandal"
+definition,definition,definition|000754,definition.xlsx::Sheet1,fj,en,fj->en,vavalagi,white person
+definition,definition,definition|000755,definition.xlsx::Sheet1,fj,en,fj->en,vavalagi,caucasian
+definition,definition,definition|000756,definition.xlsx::Sheet1,fj,en,fj->en,vei,where?
+definition,definition,definition|000757,definition.xlsx::Sheet1,fj,en,fj->en,vei.kau,forest
+definition,definition,definition|000758,definition.xlsx::Sheet1,fj,en,fj->en,vei.tau,friends
+definition,definition,definition|000759,definition.xlsx::Sheet1,fj,en,fj->en,vei.vuke,help
+definition,definition,definition|000760,definition.xlsx::Sheet1,fj,en,fj->en,"veiba, veileti",argue
+definition,definition,definition|000761,definition.xlsx::Sheet1,fj,en,fj->en,veibuka,appointment
+definition,definition,definition|000762,definition.xlsx::Sheet1,fj,en,fj->en,veiliutaki,administration
+definition,definition,definition|000763,definition.xlsx::Sheet1,fj,en,fj->en,veimama,half
+definition,definition,definition|000764,definition.xlsx::Sheet1,fj,en,fj->en,veimama,middle
+definition,definition,definition|000765,definition.xlsx::Sheet1,fj,en,fj->en,veimau,cards (play cards)
+definition,definition,definition|000766,definition.xlsx::Sheet1,fj,en,fj->en,veisau-taka,change (money)
+definition,definition,definition|000767,definition.xlsx::Sheet1,fj,en,fj->en,veitalanoa,chat
+definition,definition,definition|000768,definition.xlsx::Sheet1,fj,en,fj->en,veitalia (vei au),care
+definition,definition,definition|000769,definition.xlsx::Sheet1,fj,en,fj->en,veitarogivanua,native lands commission
+definition,definition,definition|000770,definition.xlsx::Sheet1,fj,en,fj->en,veivakadrukai,amazing
+definition,definition,definition|000771,definition.xlsx::Sheet1,fj,en,fj->en,veivuke,aid
+definition,definition,definition|000772,definition.xlsx::Sheet1,fj,en,fj->en,via,want to
+definition,definition,definition|000773,definition.xlsx::Sheet1,fj,en,fj->en,viavialevu,"presumptuous, to be"
+definition,definition,definition|000774,definition.xlsx::Sheet1,fj,en,fj->en,vica,how many?
+definition,definition,definition|000775,definition.xlsx::Sheet1,fj,en,fj->en,vinaka,good
+definition,definition,definition|000776,definition.xlsx::Sheet1,fj,en,fj->en,vinaka,thank you
+definition,definition,definition|000777,definition.xlsx::Sheet1,fj,en,fj->en,vinaka (cake),better
+definition,definition,definition|000778,definition.xlsx::Sheet1,fj,en,fj->en,vinaka duadua,best
+definition,definition,definition|000779,definition.xlsx::Sheet1,fj,en,fj->en,vinakata,want
+definition,definition,definition|000780,definition.xlsx::Sheet1,fj,en,fj->en,vinivo,dress
+definition,definition,definition|000781,definition.xlsx::Sheet1,fj,en,fj->en,viri.taka,throw
+definition,definition,definition|000782,definition.xlsx::Sheet1,fj,en,fj->en,viri-a,build (bridge)
+definition,definition,definition|000783,definition.xlsx::Sheet1,fj,en,fj->en,vitu,seven
+definition,definition,definition|000784,definition.xlsx::Sheet1,fj,en,fj->en,vodo,mount (v.)
+definition,definition,definition|000785,definition.xlsx::Sheet1,fj,en,fj->en,vodo,board (ship)
+definition,definition,definition|000786,definition.xlsx::Sheet1,fj,en,fj->en,vodo,board (v)
+definition,definition,definition|000787,definition.xlsx::Sheet1,fj,en,fj->en,vokete,bucket
+definition,definition,definition|000788,definition.xlsx::Sheet1,fj,en,fj->en,vola,write
+definition,definition,definition|000789,definition.xlsx::Sheet1,fj,en,fj->en,vola,"letter, book"
+definition,definition,definition|000790,definition.xlsx::Sheet1,fj,en,fj->en,voleka,almost
+definition,definition,definition|000791,definition.xlsx::Sheet1,fj,en,fj->en,voleka,near
+definition,definition,definition|000792,definition.xlsx::Sheet1,fj,en,fj->en,voli.taka,sell
+definition,definition,definition|000793,definition.xlsx::Sheet1,fj,en,fj->en,voli-a,buy
+definition,definition,definition|000794,definition.xlsx::Sheet1,fj,en,fj->en,vonu,turtle
+definition,definition,definition|000795,definition.xlsx::Sheet1,fj,en,fj->en,voroka,"break (glass, china)"
+definition,definition,definition|000796,definition.xlsx::Sheet1,fj,en,fj->en,vosa,"speak, talk, word, language"
+definition,definition,definition|000797,definition.xlsx::Sheet1,fj,en,fj->en,vosa,word
+definition,definition,definition|000798,definition.xlsx::Sheet1,fj,en,fj->en,vosa,talk
+definition,definition,definition|000799,definition.xlsx::Sheet1,fj,en,fj->en,vositi au,pardon me
+definition,definition,definition|000800,definition.xlsx::Sheet1,fj,en,fj->en,vosoti au,pardon me
+definition,definition,definition|000801,definition.xlsx::Sheet1,fj,en,fj->en,vou,new
+definition,definition,definition|000802,definition.xlsx::Sheet1,fj,en,fj->en,vu,"source, root"
+definition,definition,definition|000803,definition.xlsx::Sheet1,fj,en,fj->en,vu ni niu,coconut tree
+definition,definition,definition|000804,definition.xlsx::Sheet1,fj,en,fj->en,vua,fruit
+definition,definition,definition|000805,definition.xlsx::Sheet1,fj,en,fj->en,vua,seed
+definition,definition,definition|000806,definition.xlsx::Sheet1,fj,en,fj->en,vuaka,pig
+definition,definition,definition|000807,definition.xlsx::Sheet1,fj,en,fj->en,vucesa,bored
+definition,definition,definition|000808,definition.xlsx::Sheet1,fj,en,fj->en,vudi,"plantain, banana"
+definition,definition,definition|000809,definition.xlsx::Sheet1,fj,en,fj->en,vugoqu tagane,brother's son
+definition,definition,definition|000810,definition.xlsx::Sheet1,fj,en,fj->en,vugoqu yalewa,brother's daughter
+definition,definition,definition|000811,definition.xlsx::Sheet1,fj,en,fj->en,vuka,fly (v.)
+definition,definition,definition|000812,definition.xlsx::Sheet1,fj,en,fj->en,vuke-a,abet
+definition,definition,definition|000813,definition.xlsx::Sheet1,fj,en,fj->en,vuku,ability
+definition,definition,definition|000814,definition.xlsx::Sheet1,fj,en,fj->en,vula,month
+definition,definition,definition|000815,definition.xlsx::Sheet1,fj,en,fj->en,vula,moon
+definition,definition,definition|000816,definition.xlsx::Sheet1,fj,en,fj->en,vulagi,visitor
+definition,definition,definition|000817,definition.xlsx::Sheet1,fj,en,fj->en,vulaimatumatua,autumn
+definition,definition,definition|000818,definition.xlsx::Sheet1,fj,en,fj->en,vulaqeti,blanket
+definition,definition,definition|000819,definition.xlsx::Sheet1,fj,en,fj->en,vuli,learn
+definition,definition,definition|000820,definition.xlsx::Sheet1,fj,en,fj->en,vuniwai,doctor
+definition,definition,definition|000821,definition.xlsx::Sheet1,fj,en,fj->en,vuqa,many
+definition,definition,definition|000822,definition.xlsx::Sheet1,fj,en,fj->en,wai,water
+definition,definition,definition|000823,definition.xlsx::Sheet1,fj,en,fj->en,wainimate,antiseptic
+definition,definition,definition|000824,definition.xlsx::Sheet1,fj,en,fj->en,"waka, vu",root
+definition,definition,definition|000825,definition.xlsx::Sheet1,fj,en,fj->en,walesi,radio
+definition,definition,definition|000826,definition.xlsx::Sheet1,fj,en,fj->en,walesi,wireless
+definition,definition,definition|000827,definition.xlsx::Sheet1,fj,en,fj->en,walu,eight
+definition,definition,definition|000828,definition.xlsx::Sheet1,fj,en,fj->en,"waqa, boto",boat
+definition,definition,definition|000829,definition.xlsx::Sheet1,fj,en,fj->en,waqavuka,airplane
+definition,definition,definition|000830,definition.xlsx::Sheet1,fj,en,fj->en,waraka,wait for
+definition,definition,definition|000831,definition.xlsx::Sheet1,fj,en,fj->en,"wasa, wasa.wasa",sea
+definition,definition,definition|000832,definition.xlsx::Sheet1,fj,en,fj->en,"wasa.wasa, wasa",ocean
+definition,definition,definition|000833,definition.xlsx::Sheet1,fj,en,fj->en,wati,spouse
+definition,definition,definition|000834,definition.xlsx::Sheet1,fj,en,fj->en,watiqu,wife
+definition,definition,definition|000835,definition.xlsx::Sheet1,fj,en,fj->en,wavu,bridge
+definition,definition,definition|000836,definition.xlsx::Sheet1,fj,en,fj->en,weleti,papaya
+definition,definition,definition|000837,definition.xlsx::Sheet1,fj,en,fj->en,wilika,read
+definition,definition,definition|000838,definition.xlsx::Sheet1,fj,en,fj->en,wilika,count
+definition,definition,definition|000839,definition.xlsx::Sheet1,fj,en,fj->en,yabaki,year
+definition,definition,definition|000840,definition.xlsx::Sheet1,fj,en,fj->en,yabaki,age
+definition,definition,definition|000841,definition.xlsx::Sheet1,fj,en,fj->en,yaca,name
+definition,definition,definition|000842,definition.xlsx::Sheet1,fj,en,fj->en,yaco,happen
+definition,definition,definition|000843,definition.xlsx::Sheet1,fj,en,fj->en,yaco,arrive
+definition,definition,definition|000844,definition.xlsx::Sheet1,fj,en,fj->en,yadra,awake
+definition,definition,definition|000845,definition.xlsx::Sheet1,fj,en,fj->en,yadra,"awake, good morning"
+definition,definition,definition|000846,definition.xlsx::Sheet1,fj,en,fj->en,yaga,use
+definition,definition,definition|000847,definition.xlsx::Sheet1,fj,en,fj->en,yago-,body
+definition,definition,definition|000848,definition.xlsx::Sheet1,fj,en,fj->en,yakavi,evening
+definition,definition,definition|000849,definition.xlsx::Sheet1,fj,en,fj->en,yakavi,afternoon
+definition,definition,definition|000850,definition.xlsx::Sheet1,fj,en,fj->en,yalewa,woman
+definition,definition,definition|000851,definition.xlsx::Sheet1,fj,en,fj->en,yalo,soul
+definition,definition,definition|000852,definition.xlsx::Sheet1,fj,en,fj->en,"yalo vinaka, beka, mada",please
+definition,definition,definition|000853,definition.xlsx::Sheet1,fj,en,fj->en,yaloka,eye
+definition,definition,definition|000854,definition.xlsx::Sheet1,fj,en,fj->en,yaloqaqa,brave
+definition,definition,definition|000855,definition.xlsx::Sheet1,fj,en,fj->en,yame,tongue
+definition,definition,definition|000856,definition.xlsx::Sheet1,fj,en,fj->en,"yani, tani",away
+definition,definition,definition|000857,definition.xlsx::Sheet1,fj,en,fj->en,yanuyanu,island
+definition,definition,definition|000858,definition.xlsx::Sheet1,fj,en,fj->en,yapolo,apple
+definition,definition,definition|000859,definition.xlsx::Sheet1,fj,en,fj->en,yaqona,kava
+definition,definition,definition|000860,definition.xlsx::Sheet1,fj,en,fj->en,yasana,province
+definition,definition,definition|000861,definition.xlsx::Sheet1,fj,en,fj->en,yava,foot
+definition,definition,definition|000862,definition.xlsx::Sheet1,fj,en,fj->en,yavato,tree grub
+definition,definition,definition|000863,definition.xlsx::Sheet1,fj,en,fj->en,yawa,far
+definition,definition,definition|000864,definition.xlsx::Sheet1,fj,en,fj->en,yawa,distant

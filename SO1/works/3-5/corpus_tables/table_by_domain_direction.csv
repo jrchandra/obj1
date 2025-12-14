@@ -1,0 +1,13 @@
+domain,direction,rows,pct_within_domain
+bible,en->fj,1532,50.0
+bible,fj->en,1532,50.0
+conversational,en->fj,133,50.19
+conversational,fj->en,132,49.81
+definition,en->fj,863,50.0
+definition,fj->en,863,50.0
+dictionary,fj->en,8959,100.0
+idiom,fj->en,126,100.0
+legal,en->fj,732,50.0
+legal,fj->en,732,50.0
+medical,fj->en,177,57.47
+medical,en->fj,131,42.53
