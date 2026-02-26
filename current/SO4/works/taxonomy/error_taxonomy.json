@@ -1,0 +1,22 @@
+{
+  "error_types": [
+    "LEXICAL",
+    "SYNTACTIC",
+    "PRAGMATIC",
+    "CULTURAL"
+  ],
+  "severity_levels": [
+    "MINOR",
+    "MAJOR",
+    "CRITICAL"
+  ],
+  "decision_rules": {
+    "LEXICAL": "Incorrect word choice, mistranslation of terms, or omission/addition of key lexical items.",
+    "SYNTACTIC": "Incorrect word order, missing grammatical elements, malformed sentence structures.",
+    "PRAGMATIC": "Inappropriate register, loss of discourse meaning, incorrect handling of context-dependent expressions.",
+    "CULTURAL": "Loss/mistranslation of culturally embedded concepts (idioms, kinship terms, metaphors).",
+    "severity_minor": "Meaning mostly preserved; small impact on adequacy/fluency.",
+    "severity_major": "Noticeable meaning distortion or important info lost/added.",
+    "severity_critical": "Meaning changes substantially; misleading or communicatively failing translation."
+  }
+}

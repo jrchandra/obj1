@@ -1,0 +1,119 @@
+# --- GREETINGS / POLITENESS ---
+bula
+bula vinaka
+vinaka
+vinaka vakalevu
+moce
+yadra
+loloma
+kerekere
+tulou
+
+# --- HONORIFICS / RESPECT TERMS ---
+vakaturaga
+vakamarama
+turaga
+marama
+na turaga
+na marama
+turaga bale
+marama bale
+
+# --- KINSHIP TERMS ---
+tama
+tina
+taciqu
+tuakaqu
+wekada
+wekana
+veiwekani
+luvequ
+luvena
+luve
+makubuna
+bubu
+nei
+
+# --- SOCIAL / COMMUNITY TERMS ---
+vanua
+koro
+yasana
+matanitu
+mataqali
+yavusa
+tokatoka
+lotu
+soqosoqo
+
+# --- TRADITION / CEREMONY ---
+sevusevu
+yaqona
+waka
+meke
+tabua
+masi
+lovo
+magiti
+sulu
+ulu ni yaqona
+ibe
+
+# --- VALUES / ABSTRACT CONCEPTS ---
+veidokai
+veilomani
+veinanumi
+vakacegu
+vakaturagataki
+yalovinaka
+vakabauta
+vakabauta na Kalou
+vakaturaga ni bula
+
+# --- IDIOMS / EXPRESSIONS / CULTURAL PHRASES ---
+sa bula tiko
+sa donu
+sa vinaka
+sa sega ni vinaka
+me vaka ga
+me kua
+mo kua
+moce mada
+bula mada
+na noda
+na noqu
+na nomu
+me vakadonuya na vanua
+e na yalo
+
+# --- RELIGIOUS / SPIRITUAL ---
+Kalou
+lotu
+masu
+vakalougatataki
+vakalougatataki iko
+vakalougatataki kemuni
+
+# --- TRADITIONAL ROLES / TITLES ---
+ratu
+adi
+taukei
+itaukei
+mata ni vanua
+turaga ni koro
+qase
+talatala
+
+# --- CULTURAL OBJECTS / ENVIRONMENT ---
+wai
+qele
+ulu
+vatu
+wai ni bula
+dela ni vanua
+wasawasa
+
+# --- METAPHORIC / CULTURAL PHRASES ---
+yalona vulavula
+yalo vulavula
+bula ni vanua
+yalo ni tamata

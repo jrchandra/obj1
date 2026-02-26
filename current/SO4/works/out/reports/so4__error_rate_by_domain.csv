@@ -1,0 +1,8 @@
+domain,n,error_rate
+bible,160,0.8
+conversational,312,0.6923076923076923
+definition,320,0.815625
+dictionary,80,1.0
+idiom,80,1.0
+legal,444,0.9527027027027027
+medical,432,0.8402777777777778

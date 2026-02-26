@@ -1,0 +1,23 @@
+CORPUS ANALYSIS REPORT
+input: master_parallel_corpus__COMBINED.csv
+usable_rows: 15,912
+domains: 7
+subdomains: 15
+directions: 2
+
+Top domains by rows:
+  - dictionary: 8,959 (56.3%)
+  - bible: 3,064 (19.26%)
+  - definition: 1,726 (10.85%)
+  - legal: 1,464 (9.2%)
+  - medical: 308 (1.94%)
+  - conversational: 265 (1.67%)
+  - idiom: 126 (0.79%)
+
+Direction totals:
+  - fj->en: 12,521
+  - en->fj: 3,391
+
+Length (tokens) overall:
+  - src mean=8.55, median=1.00, p90=28.00
+  - tgt mean=22.45, median=17.00, p90=44.00

@@ -1,0 +1,17 @@
+system_true,error_type,count
+chatgpt,CULTURAL,172
+chatgpt,LEXICAL,184
+chatgpt,PRAGMATIC,271
+chatgpt,SYNTACTIC,185
+gemini,CULTURAL,113
+gemini,LEXICAL,147
+gemini,PRAGMATIC,201
+gemini,SYNTACTIC,122
+google_translate,CULTURAL,104
+google_translate,LEXICAL,144
+google_translate,PRAGMATIC,201
+google_translate,SYNTACTIC,119
+microsoft_translate,CULTURAL,93
+microsoft_translate,LEXICAL,174
+microsoft_translate,PRAGMATIC,194
+microsoft_translate,SYNTACTIC,120

@@ -1,0 +1,20 @@
+MASTER CORPUS BUILD REPORT
+input_folder: C:\Users\james.chandra\Desktop\scripts\mnt\data\corpus_all
+files_seen: 12
+combined_rows_before_dedup: 15,914
+dedup_removed: 2
+final_rows: 15,912
+
+FILES:
+[OK] bible_genesis_verse__en2fj.csv: rows=1,532
+[OK] bible_genesis_verse__fj2en.csv: rows=1,532
+[OK] constitution_parallel_en2fj__CLAUSE.csv: rows=732
+[OK] constitution_parallel_fj2en__CLAUSE.csv: rows=732
+[OK] conversational_parallel_en2fj__CLEAN.csv: rows=133
+[OK] conversational_parallel_fj2en__CLEAN.csv: rows=132
+[OK] definition_parallel_en2fj__ALL.csv: rows=864
+[OK] definition_parallel_fj2en__ALL.csv: rows=864
+[OK] dictionary_parallel_fj2en__ALL.csv: rows=8,959
+[OK] idiom_parallel_fj2en__ALL_SPLIT__UTF8.csv: rows=126
+[OK] medical_parallel_en2fj__TXT__FILLED.csv: rows=131
+[OK] medical_parallel_fj2en__TXT__FILLED.csv: rows=177

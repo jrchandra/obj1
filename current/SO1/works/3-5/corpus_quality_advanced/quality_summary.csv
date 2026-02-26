@@ -1,0 +1,2 @@
+total_pairs,src_noise_pct,tgt_noise_pct,src_guess_en_pct,tgt_guess_fj_pct,align_tfidf_mean,align_tfidf_median,align_tfidf_low_pct,align_chrf_mean,align_chrf_median
+15912,56.39140271493213,8.647561588738059,78.03544494720965,40.00125691302162,0.043584136501871235,0.0,86.16767219708396,6.812361269475669,4.4642857142857135

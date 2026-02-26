@@ -1,0 +1,5 @@
+system_true,n,error_rate
+chatgpt,457,0.9890590809628009
+gemini,457,0.811816192560175
+microsoft_translate,457,0.8008752735229759
+google_translate,457,0.7921225382932167

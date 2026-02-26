@@ -1,0 +1,2 @@
+rows_total,rows_flagged,flagged_pct,duplicate_pct,avg_len_ratio,p90_len_ratio,p95_len_ratio
+15912,9844,61.87,0.0,15.577,42.0,61.408

@@ -1,0 +1,2 @@
+total_pairs,avg_src_len,median_src_len,avg_tgt_len,median_tgt_len,std_src_len,std_tgt_len,min_src_len,min_tgt_len,max_src_len,max_tgt_len
+15912,8.557503770739064,1.0,22.555932629462042,18.0,21.333124890380343,31.24641815431101,1,1,1755,2256

@@ -1,0 +1,8 @@
+domain,n_rows,adequacy_1to5_mean,adequacy_1to5_median,adequacy_1to5_n,fluency_1to5_mean,fluency_1to5_median,fluency_1to5_n,overall_quality_mean,overall_quality_median,overall_quality_n,adequacy_0_2_mean,adequacy_0_2_median,adequacy_0_2_n,fluency_0_2_mean,fluency_0_2_median,fluency_0_2_n,meaning_yes_pct,meaning_n
+bible,40,3.875,4.0,40,3.85,4.0,40,3.8625,4.0,40,,,0,,,0,,0
+conversational,78,3.4871794871794872,4.0,78,3.858974358974359,4.0,78,3.673076923076923,3.5,78,,,0,,,0,,0
+definition,80,3.5875,4.0,80,3.5625,4.0,80,3.575,3.5,80,,,0,,,0,,0
+dictionary,20,3.5,3.0,20,3.55,4.0,20,3.525,3.5,20,,,0,,,0,,0
+idiom,20,3.9,4.0,20,3.85,4.0,20,3.875,4.0,20,,,0,,,0,,0
+legal,111,3.5945945945945947,4.0,111,3.675675675675676,4.0,111,3.635135135135135,3.5,111,,,0,,,0,,0
+medical,108,3.75,4.0,108,3.6296296296296298,4.0,108,3.689814814814815,4.0,108,,,0,,,0,,0

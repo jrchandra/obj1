@@ -1,0 +1,9 @@
+direction,error_type,count
+en->fj,CULTURAL,224
+en->fj,LEXICAL,246
+en->fj,PRAGMATIC,481
+en->fj,SYNTACTIC,220
+fj->en,CULTURAL,258
+fj->en,LEXICAL,403
+fj->en,PRAGMATIC,386
+fj->en,SYNTACTIC,326

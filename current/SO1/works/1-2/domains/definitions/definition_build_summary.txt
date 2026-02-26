@@ -1,0 +1,2 @@
+[OK] sheet=Sheet1: pairs=864 dedup_removed=3 (picked fj=col_2 en=col_3)
+[OK] sheet=Sheet2: pairs=864 dedup_removed=3 (picked fj=col_3 en=col_2)

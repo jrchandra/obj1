@@ -1,0 +1,8 @@
+domain,rows,flagged,flagged_pct,dup_pct,p90_len_ratio
+dictionary,8959,8406,93.83,0.0,57.4
+bible,3064,0,0.0,0.0,1.356
+definition,1726,1180,68.37,0.0,3.75
+legal,1464,30,2.05,0.0,1.8
+medical,308,104,33.77,0.0,1.84
+conversational,265,4,1.51,0.0,1.615
+idiom,126,120,95.24,0.0,20.0

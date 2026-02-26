@@ -1,0 +1,9 @@
+MEDICAL TXT CORPUS BUILD SUMMARY
+folder: C:\Users\james.chandra\Desktop\scripts\mnt\data\corpus_all\medical
+txt_files_found: 10
+paired_sets_found: 4
+
+[OK] a2-home-isolation-poster: aligned_pairs=59 (en_lines=59 fj_lines=68)
+[OK] dementia-and-support: aligned_pairs=77 (en_lines=77 fj_lines=94)
+[OK] rw-anxiety-f: aligned_pairs=223 (en_lines=223 fj_lines=232)
+[OK] screening-clinic-a2-poster: aligned_pairs=27 (en_lines=27 fj_lines=27)

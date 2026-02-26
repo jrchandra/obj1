@@ -1,0 +1,7 @@
+pair,metric,value
+annotator_A vs annotator_B,cohen_kappa_error_present,0.4182466105367427
+annotator_A vs annotator_B,weighted_kappa_severity_quadratic,0.8436854054420385
+annotator_A vs annotator_B,cohen_kappa_type_LEXICAL,0.12812794230891755
+annotator_A vs annotator_B,cohen_kappa_type_SYNTACTIC,0.18250468083563595
+annotator_A vs annotator_B,cohen_kappa_type_PRAGMATIC,0.29261118562143434
+annotator_A vs annotator_B,cohen_kappa_type_CULTURAL,0.14717750400014942
