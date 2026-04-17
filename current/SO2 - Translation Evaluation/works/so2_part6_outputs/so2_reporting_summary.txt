@@ -1,0 +1,16 @@
+SO2 Part 6 Reporting Summary
+========================================
+Input file: dataset_with_system_outputs__metrics_filled.csv
+Rows loaded: 457
+Systems analyzed: chatgpt, gemini, google, microsoft
+ID column: None
+Direction column: direction
+Domain column: domain
+Sentence type column: None
+
+Overall means by system:
+   system  bleu_mean  chrf_mean  ter_mean  comet_mean  fluency_mean  adequacy_mean
+  chatgpt   0.043667   0.234687  1.197543    0.554740      2.737418       1.785558
+   gemini   0.142218   0.442589  0.872951    0.663968      3.745614       3.048246
+   google   0.158108   0.442192  0.913794    0.665103      3.615894       2.944812
+microsoft   0.150082   0.437780  0.892744    0.654952      3.606127       2.964989
