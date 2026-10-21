@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.pytest_cache/
+*.db
+
+.env.*
+!.env.example
+!.env.railway.example
